@@ -1,0 +1,1001 @@
+Employee_ID,Name,Age,Gender,Education,City,Department,Job_Role,Job_Level,Work_Mode,Hire_Date,Tenure_Years,Annual_Salary,Job_Satisfaction,Work_Life_Balance,Overtime,Attrition,Exit_Reason
+EMP0001,Aditya Sharma,29,Male,B.Sc,Bangalore,Product,Product Manager,Senior,On-site,2020-10-07,5.5,1346316,1,5,Yes,No,N/A
+EMP0002,Aarav Saxena,39,Female,MCA,Noida,Sales,Sales Lead,Senior,Hybrid,2022-12-20,3.3,1431148,4,5,No,No,N/A
+EMP0003,Lata Shah,46,Female,MCA,Gurgaon,Marketing,Marketing Analyst,Junior,On-site,2022-01-14,4.2,453587,1,4,Yes,Yes,Compensation
+EMP0004,Ravi Nair,31,Non-Binary,B.Com,Mumbai,Product,Product Analyst,Junior,Remote,2025-04-24,0.9,589600,5,2,Yes,Yes,Work-Life Balance
+EMP0005,Varun Malhotra,48,Female,B.Tech,Pune,Finance,FP&A Analyst,Mid,On-site,2022-05-10,3.9,785277,3,3,Yes,No,N/A
+EMP0006,Ravi Verma,30,Male,B.Tech,Chennai,Sales,Sales Executive,Mid,Hybrid,2025-06-10,0.8,1060795,5,2,No,No,N/A
+EMP0007,Harsh Menon,52,Male,B.Sc,Mumbai,Marketing,Marketing Analyst,Junior,On-site,2024-08-16,1.6,564981,2,4,No,No,N/A
+EMP0008,Rahul Das,40,Male,B.Com,Bangalore,DevOps,Cloud Engineer,Mid,Remote,2023-01-25,3.2,1170717,5,4,No,No,N/A
+EMP0009,Sunita Garg,35,Female,MCA,Hyderabad,Data & Analytics,Data Scientist,Lead,On-site,2024-12-13,1.3,1866613,4,4,No,No,N/A
+EMP0010,Kunal Shah,32,Non-Binary,B.Com,Pune,DevOps,SRE,Senior,On-site,2019-07-07,6.8,1507757,4,2,No,Yes,Management Issues
+EMP0011,Shweta Saxena,42,Female,B.Tech,Chennai,Product,Associate PM,Mid,Hybrid,2023-12-16,2.3,1019275,2,2,No,No,N/A
+EMP0012,Arjun Saxena,50,Male,B.Sc,Pune,Engineering,Software Engineer,Manager,On-site,2021-09-17,4.6,3002167,1,2,Yes,Yes,Relocation
+EMP0013,Manish Tiwari,38,Female,M.Tech,Gurgaon,Customer Success,Onboarding Specialist,Junior,Remote,2025-01-24,1.2,621846,2,5,Yes,No,N/A
+EMP0014,Akash Verma,22,Male,B.Tech,Chennai,Sales,Sales Executive,Junior,Remote,2024-11-10,1.4,690414,2,5,Yes,Yes,Management Issues
+EMP0015,Sanjay Joshi,37,Male,MCA,Noida,DevOps,DevOps Engineer,Mid,Hybrid,2020-08-31,5.6,982713,2,5,No,Yes,Relocation
+EMP0016,Ishaan Mehta,45,Male,BCA,Gurgaon,Finance,FP&A Analyst,Mid,Remote,2018-11-14,7.4,1053036,1,1,No,No,N/A
+EMP0017,Shweta Bansal,29,Male,B.Tech,Mumbai,Finance,Finance Analyst,Mid,Remote,2019-02-09,7.2,932328,5,1,Yes,No,N/A
+EMP0018,Riya Malhotra,49,Female,M.Tech,Delhi,Finance,FP&A Analyst,Mid,Hybrid,2022-10-05,3.5,1173139,1,2,No,Yes,Relocation
+EMP0019,Rohan Verma,26,Female,BCA,Pune,DevOps,Cloud Engineer,Senior,Remote,2020-05-23,5.9,1511120,2,1,Yes,No,N/A
+EMP0020,Rekha Mehta,24,Female,B.Tech,Hyderabad,DevOps,DevOps Engineer,Lead,Hybrid,2024-12-08,1.3,1871262,2,4,Yes,No,N/A
+EMP0021,Gaurav Chauhan,51,Male,MBA,Hyderabad,Design,UX Researcher,Mid,Remote,2021-03-10,5.1,807090,3,2,No,No,N/A
+EMP0022,Arjun Kapoor,25,Male,MBA,Pune,Customer Success,Onboarding Specialist,Director,Hybrid,2019-02-01,6.0,6255002,2,5,No,Yes,Compensation
+EMP0023,Ishaan Kapoor,47,Male,B.Tech,Hyderabad,DevOps,Cloud Engineer,Mid,On-site,2025-08-06,0.7,977317,1,5,No,No,N/A
+EMP0024,Riya Kapoor,41,Female,B.Tech,Hyderabad,DevOps,DevOps Engineer,Mid,On-site,2020-08-16,5.6,1076235,3,2,No,No,N/A
+EMP0025,Karan Singh,32,Female,MCA,Pune,Finance,FP&A Analyst,Junior,On-site,2019-09-24,6.5,537340,2,4,No,No,N/A
+EMP0026,Aditya Kapoor,26,Male,MCA,Mumbai,Engineering,Frontend Engineer,Senior,On-site,2023-01-31,3.2,1333636,1,3,No,No,N/A
+EMP0027,Ananya Kapoor,50,Male,B.Sc,Chennai,Product,Product Analyst,Lead,Hybrid,2022-10-27,3.4,2450810,2,2,Yes,No,N/A
+EMP0028,Rajesh Nair,44,Female,B.Com,Mumbai,Sales,Account Manager,Junior,Remote,2019-06-23,6.8,600562,1,4,Yes,Yes,Relocation
+EMP0029,Shweta Iyer,30,Female,B.Tech,Delhi,Engineering,Backend Engineer,Mid,Remote,2019-01-16,7.2,1105445,3,3,No,No,N/A
+EMP0030,Rekha Joshi,41,Male,MCA,Noida,Design,Product Designer,Junior,Remote,2023-02-19,3.1,581239,3,4,Yes,No,N/A
+EMP0031,Suresh Pandey,52,Male,B.Com,Hyderabad,DevOps,Cloud Engineer,Senior,On-site,2025-10-13,0.5,1406606,3,4,Yes,No,N/A
+EMP0032,Gaurav Rao,35,Female,B.Sc,Delhi,Marketing,Content Strategist,Mid,Hybrid,2021-12-03,4.3,910973,3,5,Yes,No,N/A
+EMP0033,Arun Tiwari,28,Male,M.Tech,Pune,DevOps,DevOps Engineer,Mid,On-site,2023-01-31,3.2,1111963,5,5,No,No,N/A
+EMP0034,Vikram Sharma,42,Male,M.Tech,Hyderabad,Product,Product Analyst,Mid,Hybrid,2025-03-17,1.1,875735,1,2,No,Yes,Work-Life Balance
+EMP0035,Aarav Kapoor,44,Female,B.Com,Hyderabad,Finance,Financial Controller,Senior,Hybrid,2026-01-27,0.2,1602630,4,4,Yes,Yes,Management Issues
+EMP0036,Karan Menon,44,Male,M.Tech,Chennai,Sales,Sales Executive,Lead,Hybrid,2024-01-27,2.2,2287115,1,5,Yes,No,N/A
+EMP0037,Akash Shah,35,Female,BCA,Gurgaon,Design,UX Researcher,Manager,On-site,2024-05-29,1.9,3435148,2,4,No,Yes,Work-Life Balance
+EMP0038,Kabir Patel,44,Male,M.Tech,Pune,Sales,Account Manager,Mid,On-site,2021-06-20,4.8,822942,3,3,No,No,N/A
+EMP0039,Deepak Kapoor,32,Female,MCA,Bangalore,Sales,Sales Executive,Mid,On-site,2024-05-07,1.9,944278,4,1,Yes,No,N/A
+EMP0040,Nisha Pillai,33,Male,M.Tech,Chennai,Finance,FP&A Analyst,Junior,On-site,2021-08-12,4.6,604465,4,5,Yes,No,N/A
+EMP0041,Rahul Garg,36,Male,B.Tech,Delhi,Finance,Financial Controller,Junior,Hybrid,2019-09-11,6.6,680034,1,4,Yes,Yes,Relocation
+EMP0042,Tarun Ghosh,32,Male,MBA,Mumbai,HR,HR Business Partner,Mid,On-site,2022-07-07,3.7,845886,4,3,Yes,No,N/A
+EMP0043,Gaurav Kumar,22,Female,B.Sc,Gurgaon,Product,Associate PM,Junior,On-site,2021-01-13,3.0,504522,1,5,Yes,Yes,Relocation
+EMP0044,Rekha Tiwari,41,Female,M.Tech,Noida,Marketing,Growth Manager,Junior,On-site,2019-07-20,6.7,485860,3,1,Yes,No,N/A
+EMP0045,Rekha Agarwal,48,Male,BCA,Noida,Sales,Sales Executive,Senior,On-site,2025-04-19,1.0,1454646,1,3,Yes,No,N/A
+EMP0046,Nikhil Chauhan,32,Female,M.Tech,Pune,HR,HR Business Partner,Mid,Hybrid,2018-05-28,7.9,1145422,4,4,Yes,No,N/A
+EMP0047,Meera Bansal,51,Female,MBA,Gurgaon,Data & Analytics,BI Developer,Senior,Remote,2024-04-19,2.0,1706983,4,4,No,No,N/A
+EMP0048,Rajesh Agarwal,34,Male,MBA,Delhi,Customer Success,Onboarding Specialist,Senior,On-site,2022-01-13,4.2,1230094,4,3,Yes,No,N/A
+EMP0049,Swati Menon,45,Female,B.Tech,Delhi,Engineering,Backend Engineer,Junior,Remote,2022-10-27,3.4,656155,5,2,No,No,N/A
+EMP0050,Tarun Ghosh,43,Male,MCA,Gurgaon,Finance,Financial Controller,Junior,Hybrid,2024-10-14,1.5,593472,4,5,No,No,N/A
+EMP0051,Neha Shah,45,Female,B.Com,Delhi,Marketing,Growth Manager,Junior,Remote,2020-06-03,5.8,565438,1,5,Yes,Yes,Management Issues
+EMP0052,Sunita Nair,27,Female,B.Sc,Gurgaon,Sales,Account Manager,Junior,Remote,2021-08-27,4.6,407417,5,2,No,Yes,Better Opportunity
+EMP0053,Manish Bhat,36,Male,MCA,Bangalore,Engineering,Frontend Engineer,Mid,Remote,2022-01-31,4.2,796659,1,3,No,Yes,Better Opportunity
+EMP0054,Deepak Menon,29,Female,MBA,Noida,Data & Analytics,BI Developer,Junior,Hybrid,2019-08-05,6.7,692590,4,5,Yes,No,N/A
+EMP0055,Sunita Singh,52,Male,M.Tech,Gurgaon,Design,UX Researcher,Junior,On-site,2019-05-18,6.9,508940,2,3,Yes,Yes,Work-Life Balance
+EMP0056,Riya Agarwal,29,Female,BCA,Mumbai,Design,Product Designer,Mid,Hybrid,2021-06-30,4.8,1070648,3,4,Yes,No,N/A
+EMP0057,Lata Yadav,26,Female,MBA,Gurgaon,Product,Associate PM,Junior,Remote,2021-03-30,5.0,474572,1,1,Yes,No,N/A
+EMP0058,Vijay Yadav,34,Male,MBA,Bangalore,Customer Success,Onboarding Specialist,Mid,Remote,2021-04-26,4.9,962391,5,4,No,Yes,Better Opportunity
+EMP0059,Ananya Bhat,40,Male,M.Tech,Delhi,Sales,Sales Lead,Lead,Remote,2024-11-05,1.4,2796971,1,3,Yes,No,N/A
+EMP0060,Ishaan Garg,37,Male,M.Tech,Gurgaon,Design,Product Designer,Senior,Hybrid,2019-04-15,7.0,1692841,3,4,No,No,N/A
+EMP0061,Aarav Tiwari,24,Female,M.Tech,Noida,Finance,Financial Controller,Junior,Remote,2021-10-16,4.5,532329,3,1,No,No,N/A
+EMP0062,Kavya Menon,46,Female,M.Tech,Hyderabad,Sales,Sales Lead,Mid,Remote,2023-11-08,2.4,1027894,4,1,Yes,Yes,Work-Life Balance
+EMP0063,Karan Menon,31,Female,MCA,Pune,Design,UI/UX Designer,Senior,Hybrid,2024-06-10,1.8,1214338,5,4,Yes,No,N/A
+EMP0064,Lata Das,35,Female,B.Sc,Hyderabad,Marketing,Content Strategist,Senior,Hybrid,2023-09-04,2.6,1695158,2,4,Yes,No,N/A
+EMP0065,Arun Ghosh,38,Male,MBA,Noida,Finance,FP&A Analyst,Manager,Hybrid,2021-04-05,5.0,2505379,3,3,No,No,N/A
+EMP0066,Nitin Malhotra,29,Female,M.Tech,Pune,HR,HR Business Partner,Director,Hybrid,2024-09-04,1.6,5606296,2,4,Yes,Yes,Relocation
+EMP0067,Pranav Sharma,40,Female,M.Tech,Pune,Engineering,Backend Engineer,Mid,Remote,2021-12-26,4.3,1155973,1,4,Yes,No,N/A
+EMP0068,Akash Dubey,44,Female,M.Tech,Bangalore,Customer Success,CS Specialist,Mid,On-site,2022-09-21,3.5,1040701,1,3,No,No,N/A
+EMP0069,Nitin Garg,51,Male,B.Sc,Delhi,Product,Product Manager,Senior,Remote,2021-06-27,4.8,1438536,1,4,Yes,No,N/A
+EMP0070,Rekha Tiwari,31,Female,B.Sc,Pune,Engineering,Frontend Engineer,Lead,Remote,2022-04-14,4.0,2193049,4,2,Yes,No,N/A
+EMP0071,Pranav Shah,29,Female,B.Com,Gurgaon,Design,Product Designer,Senior,Hybrid,2023-11-05,2.4,1811484,2,2,No,No,N/A
+EMP0072,Sneha Rao,52,Female,B.Tech,Mumbai,DevOps,DevOps Engineer,Junior,Hybrid,2022-02-20,4.1,556842,4,3,No,No,N/A
+EMP0073,Siddharth Saxena,44,Female,B.Tech,Gurgaon,Design,Product Designer,Senior,Hybrid,2021-07-29,4.7,1223005,4,3,Yes,No,N/A
+EMP0074,Akash Chauhan,29,Male,B.Com,Gurgaon,Sales,Sales Lead,Lead,Remote,2025-05-27,0.9,1999367,5,3,Yes,No,N/A
+EMP0075,Nikhil Das,24,Male,MBA,Pune,Design,Product Designer,Senior,Hybrid,2021-07-28,4.7,1542589,4,2,Yes,Yes,Personal Reasons
+EMP0076,Kunal Tiwari,32,Non-Binary,B.Com,Chennai,Customer Success,CS Specialist,Senior,Remote,2019-07-22,6.7,1691081,1,2,Yes,No,N/A
+EMP0077,Nikhil Kumar,25,Female,M.Tech,Bangalore,Finance,Finance Analyst,Mid,On-site,2023-05-13,2.9,893245,3,5,No,No,N/A
+EMP0078,Aditya Nair,29,Non-Binary,B.Tech,Hyderabad,DevOps,SRE,Manager,Remote,2025-07-11,0.7,2632575,4,3,No,Yes,Better Opportunity
+EMP0079,Harsh Kumar,33,Female,BCA,Noida,DevOps,DevOps Engineer,Mid,Hybrid,2025-10-13,0.5,1197748,5,4,Yes,No,N/A
+EMP0080,Sneha Kumar,36,Female,B.Com,Gurgaon,Engineering,Frontend Engineer,Junior,Remote,2020-11-29,5.4,590151,1,3,No,Yes,Compensation
+EMP0081,Pooja Mishra,22,Male,B.Com,Mumbai,Sales,Sales Lead,Senior,Hybrid,2018-10-31,3.0,1549709,2,2,Yes,Yes,Personal Reasons
+EMP0082,Vivaan Patel,26,Male,B.Com,Mumbai,Data & Analytics,Data Analyst,Mid,On-site,2019-09-21,6.5,983228,3,2,Yes,No,N/A
+EMP0083,Ravi Reddy,23,Male,B.Tech,Gurgaon,HR,HR Business Partner,Junior,On-site,2019-09-08,4.0,620704,5,1,Yes,No,N/A
+EMP0084,Manish Pillai,47,Female,M.Tech,Gurgaon,Sales,Sales Lead,Junior,Remote,2025-08-26,0.6,673390,3,4,Yes,Yes,Relocation
+EMP0085,Lata Das,24,Male,BCA,Noida,Product,Product Analyst,Senior,Remote,2019-09-05,5.0,1488375,5,5,No,No,N/A
+EMP0086,Sanjay Iyer,46,Female,M.Tech,Noida,Product,Associate PM,Senior,On-site,2024-06-12,1.8,1955855,2,4,No,No,N/A
+EMP0087,Kabir Pillai,43,Male,MCA,Chennai,Product,Product Analyst,Mid,Remote,2021-02-14,5.1,896241,2,4,Yes,Yes,Better Opportunity
+EMP0088,Mohit Pillai,39,Female,MCA,Bangalore,DevOps,DevOps Engineer,Senior,Hybrid,2024-07-24,1.7,1545658,1,4,No,No,N/A
+EMP0089,Rajesh Garg,40,Female,B.Tech,Delhi,Design,Product Designer,Mid,On-site,2023-12-15,2.3,811536,2,4,Yes,No,N/A
+EMP0090,Varun Saxena,46,Male,MBA,Chennai,Sales,Account Manager,Lead,Remote,2025-03-27,1.0,2443378,5,1,No,Yes,Compensation
+EMP0091,Suresh Gupta,34,Male,MCA,Chennai,Data & Analytics,Data Scientist,Senior,On-site,2019-01-17,7.2,1348766,1,1,Yes,Yes,Relocation
+EMP0092,Vijay Bhat,26,Female,M.Tech,Delhi,Design,UI/UX Designer,Lead,Remote,2020-01-11,6.2,2591083,5,1,Yes,Yes,Management Issues
+EMP0093,Lata Verma,25,Male,MBA,Mumbai,DevOps,DevOps Engineer,Mid,Remote,2021-06-10,4.8,1055581,5,4,No,Yes,Relocation
+EMP0094,Nitin Mehta,22,Male,B.Com,Chennai,Marketing,Growth Manager,Mid,Remote,2023-11-04,2.4,1091650,4,2,Yes,No,N/A
+EMP0095,Nitin Chauhan,22,Male,B.Tech,Noida,Finance,Financial Controller,Junior,Remote,2023-06-03,2.8,440822,3,5,No,No,N/A
+EMP0096,Meera Pillai,41,Female,BCA,Hyderabad,HR,HR Business Partner,Lead,Hybrid,2023-06-04,2.8,2672442,3,1,No,No,N/A
+EMP0097,Rajesh Reddy,32,Female,B.Com,Pune,Marketing,Content Strategist,Mid,Remote,2020-02-24,6.1,740044,5,1,Yes,No,N/A
+EMP0098,Rekha Saxena,27,Female,MCA,Chennai,Product,Product Manager,Mid,On-site,2025-01-07,1.2,780147,1,2,No,No,N/A
+EMP0099,Arjun Nair,37,Male,B.Tech,Bangalore,HR,HR Business Partner,Mid,Hybrid,2023-03-23,3.0,1031027,3,3,Yes,No,N/A
+EMP0100,Sunita Agarwal,49,Female,B.Tech,Gurgaon,Marketing,Marketing Analyst,Senior,On-site,2019-04-11,7.0,1844883,5,5,No,No,N/A
+EMP0101,Kabir Das,38,Female,B.Tech,Mumbai,Sales,Account Manager,Senior,On-site,2019-12-15,6.3,1264879,4,1,No,No,N/A
+EMP0102,Suresh Tiwari,41,Female,B.Com,Chennai,Customer Success,CS Specialist,Mid,Remote,2020-01-17,6.2,890787,3,3,No,No,N/A
+EMP0103,Vikram Malhotra,34,Male,MCA,Noida,HR,HR Business Partner,Senior,Remote,2021-06-13,4.8,1464236,5,2,No,Yes,Management Issues
+EMP0104,Vijay Das,31,Male,MBA,Delhi,Design,UX Researcher,Manager,Remote,2024-07-13,1.7,3289953,3,2,Yes,No,N/A
+EMP0105,Ankita Saxena,37,Male,MCA,Bangalore,Sales,Account Manager,Manager,On-site,2020-06-01,5.8,2975095,2,2,Yes,Yes,Better Opportunity
+EMP0106,Aditya Pillai,34,Male,MCA,Mumbai,HR,HR Analyst,Junior,Hybrid,2019-12-29,6.3,485064,2,5,Yes,No,N/A
+EMP0107,Neha Kapoor,47,Female,MBA,Gurgaon,Design,Product Designer,Senior,Hybrid,2023-04-19,3.0,1445369,5,2,No,No,N/A
+EMP0108,Rohan Chauhan,35,Male,MBA,Hyderabad,Marketing,Growth Manager,Mid,On-site,2020-01-30,6.2,1128286,2,5,Yes,No,N/A
+EMP0109,Kabir Malhotra,46,Male,M.Tech,Chennai,DevOps,DevOps Engineer,Mid,Remote,2020-01-23,6.2,843021,4,5,Yes,No,N/A
+EMP0110,Nitin Chauhan,33,Male,B.Sc,Pune,Finance,Finance Analyst,Mid,Remote,2020-11-27,5.4,902462,1,3,Yes,Yes,Better Opportunity
+EMP0111,Vivaan Shah,26,Male,B.Sc,Noida,Marketing,Growth Manager,Senior,Remote,2026-03-05,0.1,1691897,4,5,Yes,No,N/A
+EMP0112,Lata Ghosh,23,Male,BCA,Mumbai,Marketing,Marketing Analyst,Mid,On-site,2020-12-08,4.0,920109,5,4,Yes,Yes,Relocation
+EMP0113,Kabir Das,41,Non-Binary,B.Tech,Bangalore,Data & Analytics,BI Developer,Mid,Hybrid,2022-03-22,4.0,826124,5,4,Yes,No,N/A
+EMP0114,Gaurav Chauhan,33,Male,BCA,Chennai,Customer Success,CS Manager,Senior,Remote,2021-02-08,5.2,1983618,1,3,Yes,Yes,Management Issues
+EMP0115,Arjun Dubey,48,Female,M.Tech,Bangalore,Engineering,Frontend Engineer,Mid,Hybrid,2025-06-21,0.8,791797,4,4,Yes,No,N/A
+EMP0116,Shweta Bhat,50,Male,B.Com,Mumbai,Sales,Sales Executive,Lead,Hybrid,2018-09-25,7.5,2130926,3,5,No,No,N/A
+EMP0117,Deepak Iyer,32,Non-Binary,M.Tech,Gurgaon,HR,HR Business Partner,Lead,Hybrid,2021-04-30,4.9,1930521,3,4,No,No,N/A
+EMP0118,Amit Kumar,45,Male,MCA,Delhi,DevOps,SRE,Lead,Hybrid,2023-01-09,3.2,1882760,4,5,Yes,No,N/A
+EMP0119,Rajesh Pandey,27,Non-Binary,MBA,Bangalore,Customer Success,Onboarding Specialist,Senior,Remote,2025-12-31,0.3,1665471,3,4,Yes,No,N/A
+EMP0120,Meera Saxena,45,Female,MBA,Noida,Finance,FP&A Analyst,Mid,On-site,2025-11-18,0.4,783879,1,2,No,Yes,Better Opportunity
+EMP0121,Manish Iyer,52,Female,B.Sc,Hyderabad,Engineering,Backend Engineer,Senior,Remote,2022-06-04,3.8,1590084,4,1,Yes,No,N/A
+EMP0122,Usha Nair,51,Female,M.Tech,Mumbai,Data & Analytics,ML Engineer,Mid,Remote,2024-07-24,1.7,761740,3,3,No,No,N/A
+EMP0123,Kavya Kapoor,50,Male,B.Sc,Pune,Data & Analytics,Data Analyst,Mid,Hybrid,2023-04-04,3.0,746027,3,3,Yes,No,N/A
+EMP0124,Nikhil Menon,28,Female,BCA,Pune,DevOps,DevOps Engineer,Junior,On-site,2019-10-27,6.4,524117,4,1,No,No,N/A
+EMP0125,Harsh Singh,44,Male,MCA,Chennai,Product,Product Manager,Mid,Remote,2023-08-19,2.6,975615,4,4,Yes,Yes,Compensation
+EMP0126,Shreya Gupta,46,Male,MCA,Mumbai,DevOps,Cloud Engineer,Senior,Hybrid,2019-09-17,6.6,1653633,5,1,Yes,No,N/A
+EMP0127,Usha Ghosh,30,Male,MCA,Pune,DevOps,SRE,Lead,On-site,2020-06-19,5.8,2465905,5,3,Yes,No,N/A
+EMP0128,Ravi Mishra,41,Male,B.Sc,Noida,Design,UI/UX Designer,Junior,On-site,2025-01-18,1.2,577009,5,1,Yes,Yes,Management Issues
+EMP0129,Siddharth Rao,39,Male,B.Tech,Bangalore,Engineering,Full Stack Engineer,Lead,Remote,2021-07-06,4.8,2473088,3,4,Yes,No,N/A
+EMP0130,Rajesh Rao,28,Male,MBA,Hyderabad,Customer Success,CS Specialist,Mid,Hybrid,2022-01-29,4.2,1018064,2,3,No,No,N/A
+EMP0131,Usha Pillai,36,Male,B.Com,Pune,Sales,Account Manager,Junior,Hybrid,2021-01-16,5.2,473860,1,1,No,No,N/A
+EMP0132,Swati Sharma,46,Male,M.Tech,Gurgaon,Design,UX Researcher,Mid,Remote,2020-01-19,6.2,961234,5,4,No,No,N/A
+EMP0133,Ishaan Pillai,23,Male,MBA,Chennai,Sales,Sales Lead,Mid,Hybrid,2021-06-02,4.8,959467,5,4,No,No,N/A
+EMP0134,Arun Saxena,40,Male,B.Com,Hyderabad,HR,HR Business Partner,Mid,Remote,2024-07-25,1.7,802055,3,5,No,Yes,Personal Reasons
+EMP0135,Manish Das,32,Male,B.Tech,Pune,Product,Product Analyst,Mid,On-site,2024-07-08,1.7,1192279,3,2,Yes,No,N/A
+EMP0136,Amit Gupta,26,Male,BCA,Delhi,HR,Talent Acquisition Specialist,Mid,On-site,2025-01-23,1.2,1168258,5,2,No,No,N/A
+EMP0137,Nikhil Iyer,39,Female,M.Tech,Delhi,HR,HR Analyst,Lead,On-site,2023-10-04,2.5,2543167,5,3,No,No,N/A
+EMP0138,Kunal Pandey,42,Female,M.Tech,Pune,Engineering,Full Stack Engineer,Mid,On-site,2024-10-01,1.5,1002846,2,1,No,Yes,Management Issues
+EMP0139,Sanjay Dubey,44,Male,BCA,Gurgaon,Sales,Sales Executive,Senior,On-site,2019-07-01,6.8,1400051,1,4,No,No,N/A
+EMP0140,Ananya Menon,39,Female,MBA,Chennai,Engineering,Backend Engineer,Mid,On-site,2021-11-28,4.4,1047197,4,5,No,No,N/A
+EMP0141,Shreya Saxena,52,Male,B.Sc,Gurgaon,Marketing,Content Strategist,Mid,Hybrid,2021-01-10,5.2,846279,5,3,Yes,No,N/A
+EMP0142,Manish Bansal,51,Male,B.Com,Pune,Customer Success,CS Specialist,Senior,Hybrid,2021-05-01,4.9,1501769,1,5,No,No,N/A
+EMP0143,Shweta Shah,24,Female,MCA,Delhi,Engineering,Frontend Engineer,Manager,Remote,2022-02-23,4.1,3427729,3,4,Yes,No,N/A
+EMP0144,Suresh Dubey,29,Male,MCA,Pune,Product,Associate PM,Senior,Remote,2020-12-25,5.3,1253231,5,2,Yes,Yes,Relocation
+EMP0145,Ravi Singh,51,Female,B.Sc,Bangalore,DevOps,DevOps Engineer,Mid,Remote,2023-08-07,2.7,950320,2,3,No,Yes,Better Opportunity
+EMP0146,Lata Kumar,23,Female,MBA,Delhi,Finance,Finance Analyst,Manager,Hybrid,2022-09-19,3.5,3538895,2,3,Yes,Yes,Personal Reasons
+EMP0147,Karan Iyer,52,Male,M.Tech,Delhi,DevOps,Cloud Engineer,Mid,On-site,2019-10-08,6.5,1146200,5,4,No,No,N/A
+EMP0148,Ankita Iyer,47,Male,MCA,Hyderabad,Data & Analytics,Data Analyst,Senior,Remote,2021-07-28,4.7,1795361,2,2,No,No,N/A
+EMP0149,Suresh Nair,29,Female,BCA,Bangalore,Data & Analytics,ML Engineer,Mid,Hybrid,2018-05-04,7.9,836726,4,2,No,No,N/A
+EMP0150,Nitin Saxena,43,Male,B.Tech,Delhi,HR,HR Analyst,Junior,Hybrid,2019-08-04,6.7,644001,3,2,No,No,N/A
+EMP0151,Sunita Malhotra,26,Male,BCA,Mumbai,Design,UI/UX Designer,Junior,Remote,2023-08-17,2.6,480313,4,5,No,No,N/A
+EMP0152,Ankita Joshi,38,Female,B.Sc,Pune,Design,UI/UX Designer,Mid,Hybrid,2026-02-26,0.1,889679,1,5,Yes,Yes,Personal Reasons
+EMP0153,Pranav Patel,28,Male,M.Tech,Bangalore,DevOps,SRE,Junior,On-site,2024-10-20,1.5,656286,1,5,No,No,N/A
+EMP0154,Aditya Pillai,45,Male,B.Tech,Bangalore,Customer Success,Onboarding Specialist,Lead,Remote,2018-07-05,7.8,2215182,3,1,Yes,No,N/A
+EMP0155,Deepak Rao,27,Male,MCA,Pune,Customer Success,CS Manager,Mid,On-site,2019-10-13,6.5,1101514,4,3,No,No,N/A
+EMP0156,Shreya Menon,39,Female,BCA,Noida,HR,HR Business Partner,Junior,On-site,2022-09-02,3.6,677265,2,2,Yes,No,N/A
+EMP0157,Sanjay Pandey,33,Female,B.Tech,Mumbai,Finance,Finance Analyst,Junior,Remote,2020-01-02,6.3,544519,2,1,Yes,No,N/A
+EMP0158,Shweta Joshi,36,Female,B.Com,Bangalore,Product,Product Manager,Senior,Remote,2024-12-19,1.3,1904667,1,2,Yes,Yes,Work-Life Balance
+EMP0159,Vikram Tiwari,51,Male,M.Tech,Delhi,DevOps,SRE,Junior,Hybrid,2024-09-21,1.5,567197,5,5,No,No,N/A
+EMP0160,Amit Dubey,35,Male,B.Sc,Delhi,Engineering,Backend Engineer,Senior,Hybrid,2024-06-30,1.8,1719696,1,3,No,No,N/A
+EMP0161,Sunita Das,29,Male,B.Sc,Delhi,Data & Analytics,ML Engineer,Junior,Remote,2021-08-20,4.6,475681,4,1,No,No,N/A
+EMP0162,Lata Pandey,36,Male,B.Tech,Mumbai,HR,HR Analyst,Junior,On-site,2022-06-04,3.8,448477,5,2,Yes,Yes,Management Issues
+EMP0163,Karan Yadav,49,Non-Binary,M.Tech,Mumbai,DevOps,DevOps Engineer,Mid,On-site,2021-12-30,4.3,858957,1,2,Yes,No,N/A
+EMP0164,Harsh Reddy,51,Male,MBA,Gurgaon,Design,UX Researcher,Junior,Hybrid,2020-12-12,5.3,689448,3,3,No,No,N/A
+EMP0165,Rekha Garg,48,Male,B.Sc,Bangalore,Product,Associate PM,Mid,Hybrid,2021-11-08,4.4,1179372,2,3,No,No,N/A
+EMP0166,Swati Ghosh,35,Female,MCA,Chennai,DevOps,Cloud Engineer,Senior,Hybrid,2021-07-29,4.7,1359814,2,3,Yes,Yes,Work-Life Balance
+EMP0167,Swati Gupta,37,Female,BCA,Bangalore,Customer Success,Onboarding Specialist,Senior,On-site,2023-06-07,2.8,1376405,3,2,Yes,No,N/A
+EMP0168,Aarav Joshi,43,Male,MBA,Bangalore,Engineering,Software Engineer,Manager,On-site,2018-10-22,7.5,2513387,4,2,Yes,Yes,Work-Life Balance
+EMP0169,Nisha Ghosh,22,Non-Binary,B.Tech,Noida,Design,Product Designer,Senior,Remote,2018-05-04,3.0,1758065,5,4,Yes,Yes,Management Issues
+EMP0170,Manish Singh,29,Male,M.Tech,Gurgaon,Product,Product Manager,Mid,On-site,2020-06-01,5.8,1024943,5,3,No,No,N/A
+EMP0171,Neha Verma,43,Female,MCA,Pune,Sales,Sales Lead,Junior,Remote,2019-03-03,7.1,416611,1,4,No,No,N/A
+EMP0172,Rekha Bhat,32,Male,B.Tech,Delhi,Customer Success,CS Specialist,Senior,On-site,2024-08-10,1.7,1299994,5,1,Yes,Yes,Management Issues
+EMP0173,Nitin Bansal,51,Male,B.Tech,Delhi,Design,UX Researcher,Junior,Remote,2021-10-16,4.5,408209,2,5,Yes,No,N/A
+EMP0174,Rahul Agarwal,49,Non-Binary,MCA,Hyderabad,Design,UI/UX Designer,Senior,On-site,2022-08-17,3.6,1909922,5,3,No,No,N/A
+EMP0175,Amit Sharma,29,Female,B.Com,Gurgaon,HR,HR Business Partner,Junior,Hybrid,2019-02-12,7.1,578568,5,5,No,No,N/A
+EMP0176,Kavya Agarwal,34,Male,B.Tech,Hyderabad,Sales,Account Manager,Senior,Hybrid,2023-02-08,3.2,1394760,5,4,Yes,No,N/A
+EMP0177,Shreya Menon,42,Male,MBA,Hyderabad,Data & Analytics,ML Engineer,Senior,Remote,2019-12-29,6.3,1975584,4,3,No,Yes,Better Opportunity
+EMP0178,Kabir Pandey,39,Female,MBA,Noida,Product,Product Manager,Mid,Remote,2024-06-26,1.8,968666,4,1,Yes,Yes,Personal Reasons
+EMP0179,Priya Patel,24,Male,MBA,Gurgaon,Marketing,Growth Manager,Mid,Remote,2024-07-15,1.7,1174589,2,5,Yes,No,N/A
+EMP0180,Kunal Chauhan,35,Male,BCA,Mumbai,Product,Product Manager,Mid,Hybrid,2021-08-16,4.6,953876,1,3,No,No,N/A
+EMP0181,Vijay Bansal,52,Female,MCA,Pune,Product,Product Manager,Mid,Hybrid,2022-09-13,3.6,874177,5,4,No,No,N/A
+EMP0182,Akash Bhat,28,Female,B.Com,Mumbai,HR,HR Analyst,Manager,Hybrid,2023-08-21,2.6,3158890,2,4,No,Yes,Management Issues
+EMP0183,Sunita Sharma,34,Female,M.Tech,Mumbai,Finance,FP&A Analyst,Lead,Hybrid,2022-05-11,3.9,1919420,5,2,Yes,No,N/A
+EMP0184,Nitin Pillai,49,Female,B.Tech,Gurgaon,Marketing,Content Strategist,Junior,On-site,2022-11-07,3.4,661778,2,3,Yes,Yes,Work-Life Balance
+EMP0185,Shweta Pandey,38,Female,B.Tech,Hyderabad,Customer Success,Onboarding Specialist,Mid,Remote,2026-01-08,0.2,919310,5,1,No,No,N/A
+EMP0186,Riya Mehta,23,Male,BCA,Mumbai,HR,HR Business Partner,Senior,Hybrid,2024-07-30,1.7,1876364,4,3,No,Yes,Better Opportunity
+EMP0187,Neha Kumar,43,Male,B.Tech,Hyderabad,HR,Talent Acquisition Specialist,Mid,On-site,2024-11-11,1.4,1061987,5,2,No,No,N/A
+EMP0188,Varun Menon,36,Male,MBA,Bangalore,Data & Analytics,BI Developer,Mid,On-site,2020-08-01,5.7,973214,4,3,No,Yes,Management Issues
+EMP0189,Suresh Ghosh,42,Male,M.Tech,Mumbai,Product,Product Manager,Lead,Hybrid,2019-06-28,6.8,2510032,2,2,Yes,No,N/A
+EMP0190,Deepak Sharma,35,Female,B.Sc,Delhi,Data & Analytics,Data Scientist,Senior,On-site,2022-09-13,3.6,1230610,5,2,No,No,N/A
+EMP0191,Riya Tiwari,49,Female,BCA,Chennai,Product,Associate PM,Junior,On-site,2024-04-14,2.0,498020,3,3,Yes,No,N/A
+EMP0192,Nitin Agarwal,25,Male,BCA,Hyderabad,Finance,Financial Controller,Mid,On-site,2022-03-02,4.1,884541,4,5,Yes,No,N/A
+EMP0193,Rahul Mishra,31,Male,B.Sc,Gurgaon,Data & Analytics,BI Developer,Junior,On-site,2019-07-30,6.7,495968,3,2,No,No,N/A
+EMP0194,Arun Pandey,51,Male,MBA,Bangalore,DevOps,Cloud Engineer,Manager,Hybrid,2020-03-16,6.1,3663736,2,4,No,Yes,Compensation
+EMP0195,Arun Bhat,52,Male,BCA,Bangalore,Data & Analytics,Data Scientist,Lead,Remote,2024-07-24,1.7,2329990,4,4,No,No,N/A
+EMP0196,Karan Mishra,39,Male,B.Com,Chennai,Marketing,Marketing Analyst,Mid,On-site,2021-07-02,4.8,788189,4,5,No,No,N/A
+EMP0197,Rajesh Garg,35,Female,M.Tech,Hyderabad,Engineering,Full Stack Engineer,Mid,Remote,2019-05-31,6.9,1085870,2,3,Yes,No,N/A
+EMP0198,Pooja Agarwal,33,Male,MBA,Delhi,Sales,Sales Lead,Senior,On-site,2025-02-08,1.2,1863508,4,2,Yes,No,N/A
+EMP0199,Rohan Shah,44,Female,B.Sc,Pune,DevOps,DevOps Engineer,Mid,Remote,2021-07-18,4.7,851693,5,3,Yes,Yes,Relocation
+EMP0200,Deepak Menon,46,Male,B.Com,Hyderabad,Data & Analytics,BI Developer,Lead,Hybrid,2025-11-05,0.4,2211776,4,2,No,No,N/A
+EMP0201,Kunal Singh,51,Female,M.Tech,Chennai,DevOps,Cloud Engineer,Mid,Remote,2022-05-27,3.9,938391,4,3,Yes,No,N/A
+EMP0202,Rekha Patel,35,Female,M.Tech,Chennai,DevOps,SRE,Junior,On-site,2020-08-21,5.6,659373,3,3,No,No,N/A
+EMP0203,Vijay Joshi,47,Non-Binary,B.Sc,Delhi,Engineering,Software Engineer,Junior,Remote,2023-06-02,2.8,408536,1,2,No,No,N/A
+EMP0204,Kunal Dubey,30,Female,M.Tech,Hyderabad,Marketing,Marketing Analyst,Senior,On-site,2019-03-10,7.1,1589906,2,1,No,No,N/A
+EMP0205,Karan Garg,24,Male,B.Sc,Gurgaon,Product,Product Manager,Junior,Remote,2019-10-02,5.0,518589,5,4,Yes,Yes,Compensation
+EMP0206,Ravi Bansal,47,Female,B.Sc,Pune,Sales,Account Manager,Junior,Remote,2019-05-31,6.9,454107,3,3,No,No,N/A
+EMP0207,Usha Tiwari,42,Male,B.Sc,Hyderabad,DevOps,Cloud Engineer,Junior,Remote,2020-02-08,6.2,630738,3,2,Yes,No,N/A
+EMP0208,Meera Ghosh,34,Female,MCA,Delhi,Data & Analytics,Data Analyst,Senior,On-site,2022-03-16,4.1,1650246,3,2,Yes,Yes,Better Opportunity
+EMP0209,Meera Bhat,41,Male,B.Sc,Gurgaon,Engineering,Frontend Engineer,Junior,On-site,2023-12-24,2.3,498905,4,3,Yes,No,N/A
+EMP0210,Rekha Pillai,22,Male,MCA,Pune,Design,UI/UX Designer,Mid,Hybrid,2022-04-25,3.9,1189645,3,2,No,No,N/A
+EMP0211,Akash Dubey,22,Male,M.Tech,Noida,Product,Product Manager,Senior,On-site,2021-03-15,3.0,1426222,1,1,No,No,N/A
+EMP0212,Vikram Ghosh,39,Male,BCA,Hyderabad,Finance,Finance Analyst,Senior,Hybrid,2025-03-04,1.1,1360097,3,1,No,Yes,Work-Life Balance
+EMP0213,Lata Verma,29,Male,MCA,Pune,Finance,Financial Controller,Manager,Remote,2018-11-30,7.4,3012711,1,4,Yes,No,N/A
+EMP0214,Rahul Yadav,27,Female,MBA,Hyderabad,Engineering,Backend Engineer,Senior,Remote,2023-10-31,2.4,1563546,5,5,No,No,N/A
+EMP0215,Nikhil Verma,24,Male,BCA,Pune,HR,Talent Acquisition Specialist,Mid,Hybrid,2021-03-19,5.0,1073462,5,1,No,No,N/A
+EMP0216,Meera Verma,50,Male,M.Tech,Pune,Data & Analytics,BI Developer,Lead,Remote,2024-09-12,1.6,2506866,1,2,Yes,Yes,Better Opportunity
+EMP0217,Rohan Gupta,29,Male,BCA,Bangalore,Engineering,Full Stack Engineer,Junior,Hybrid,2022-12-06,3.3,567738,3,1,No,Yes,Management Issues
+EMP0218,Kavya Mishra,46,Female,MCA,Mumbai,Product,Product Analyst,Lead,Hybrid,2021-09-30,4.5,2143199,1,5,No,Yes,Work-Life Balance
+EMP0219,Vivaan Mehta,46,Male,MCA,Bangalore,HR,HR Analyst,Director,Hybrid,2020-06-15,5.8,6292435,2,2,Yes,No,N/A
+EMP0220,Rohan Patel,45,Female,B.Tech,Bangalore,Engineering,Full Stack Engineer,Lead,Remote,2021-09-17,4.6,1908998,2,5,Yes,No,N/A
+EMP0221,Akash Bansal,33,Male,BCA,Bangalore,DevOps,SRE,Senior,Hybrid,2023-05-28,2.9,1984229,1,5,Yes,No,N/A
+EMP0222,Divya Singh,49,Female,B.Sc,Hyderabad,Data & Analytics,Data Scientist,Mid,Remote,2021-10-18,4.5,1185512,4,3,No,No,N/A
+EMP0223,Pranav Shah,32,Female,B.Tech,Pune,Product,Product Manager,Mid,On-site,2022-10-28,3.4,763300,5,3,Yes,No,N/A
+EMP0224,Manish Das,23,Male,MBA,Delhi,Marketing,Content Strategist,Senior,Remote,2020-09-03,4.0,1543716,2,1,Yes,No,N/A
+EMP0225,Rahul Kumar,39,Male,B.Com,Mumbai,Engineering,Full Stack Engineer,Lead,Remote,2024-06-07,1.8,2061989,1,4,Yes,No,N/A
+EMP0226,Arjun Sharma,42,Non-Binary,B.Sc,Gurgaon,Sales,Account Manager,Mid,Remote,2025-06-29,0.8,744060,5,5,No,No,N/A
+EMP0227,Manish Bhat,52,Male,MCA,Noida,Product,Product Analyst,Junior,Remote,2023-06-08,2.8,426548,2,5,No,No,N/A
+EMP0228,Swati Pillai,30,Female,M.Tech,Bangalore,HR,HR Business Partner,Manager,Remote,2021-05-27,4.9,3435353,2,1,Yes,No,N/A
+EMP0229,Nitin Reddy,28,Male,B.Com,Gurgaon,Marketing,Growth Manager,Junior,Hybrid,2025-06-21,0.8,675678,2,5,Yes,No,N/A
+EMP0230,Rohan Agarwal,30,Non-Binary,BCA,Chennai,Design,UX Researcher,Mid,On-site,2020-04-12,6.0,713664,3,5,Yes,Yes,Compensation
+EMP0231,Deepak Reddy,43,Female,B.Com,Pune,Sales,Sales Executive,Junior,Remote,2020-12-19,5.3,539736,5,1,Yes,No,N/A
+EMP0232,Rekha Patel,45,Female,B.Sc,Gurgaon,Sales,Sales Lead,Mid,On-site,2026-02-01,0.2,888105,5,1,No,No,N/A
+EMP0233,Aarav Iyer,24,Female,B.Sc,Pune,Marketing,Marketing Analyst,Mid,Hybrid,2018-11-23,5.0,821961,5,2,Yes,No,N/A
+EMP0234,Nikhil Dubey,26,Female,M.Tech,Hyderabad,Data & Analytics,BI Developer,Junior,Hybrid,2024-11-03,1.4,474266,1,5,No,No,N/A
+EMP0235,Geeta Bansal,27,Male,MBA,Delhi,Marketing,Growth Manager,Junior,Remote,2023-03-01,3.1,655433,3,2,No,No,N/A
+EMP0236,Usha Mehta,52,Female,B.Tech,Gurgaon,Data & Analytics,Data Analyst,Manager,Remote,2024-09-08,1.6,3321247,5,1,Yes,No,N/A
+EMP0237,Meera Dubey,33,Male,MBA,Hyderabad,HR,HR Analyst,Junior,On-site,2021-11-05,4.4,488021,1,3,No,Yes,Work-Life Balance
+EMP0238,Deepak Kumar,45,Female,B.Com,Mumbai,Engineering,Software Engineer,Mid,Remote,2022-12-20,3.3,787209,4,4,No,No,N/A
+EMP0239,Deepak Gupta,23,Female,BCA,Hyderabad,Customer Success,CS Manager,Lead,Hybrid,2021-07-27,4.7,1821053,3,3,Yes,Yes,Work-Life Balance
+EMP0240,Suresh Joshi,44,Non-Binary,M.Tech,Delhi,Design,UX Researcher,Manager,On-site,2018-08-11,7.7,3404550,2,5,No,Yes,Better Opportunity
+EMP0241,Vijay Singh,23,Male,MCA,Gurgaon,Marketing,Growth Manager,Junior,Remote,2022-09-02,3.6,699772,5,4,Yes,Yes,Better Opportunity
+EMP0242,Neha Bhat,42,Female,MBA,Hyderabad,Product,Product Manager,Junior,On-site,2021-07-15,4.7,442958,4,1,No,No,N/A
+EMP0243,Riya Mehta,50,Female,BCA,Bangalore,DevOps,SRE,Junior,Remote,2022-07-17,3.7,593672,2,4,Yes,Yes,Relocation
+EMP0244,Pallavi Pillai,47,Female,MCA,Gurgaon,Product,Product Manager,Senior,On-site,2024-05-02,1.9,1634096,5,2,Yes,No,N/A
+EMP0245,Ananya Gupta,34,Non-Binary,B.Com,Mumbai,Sales,Account Manager,Mid,Remote,2018-08-27,7.6,963245,5,5,Yes,Yes,Relocation
+EMP0246,Arjun Singh,43,Male,M.Tech,Chennai,Engineering,Full Stack Engineer,Junior,Hybrid,2023-02-23,3.1,505863,2,5,No,Yes,Management Issues
+EMP0247,Vikram Mishra,22,Female,B.Com,Hyderabad,DevOps,SRE,Manager,Remote,2026-02-12,0.1,3806647,5,5,No,Yes,Work-Life Balance
+EMP0248,Swati Mishra,49,Female,B.Tech,Pune,Design,UI/UX Designer,Lead,Hybrid,2024-04-08,2.0,2722889,3,4,No,No,N/A
+EMP0249,Rohan Yadav,43,Male,MBA,Chennai,Finance,Finance Analyst,Senior,Remote,2026-01-16,0.2,1621233,1,4,No,No,N/A
+EMP0250,Arun Saxena,48,Female,MBA,Noida,HR,Talent Acquisition Specialist,Mid,On-site,2023-10-11,2.5,1149962,1,2,Yes,Yes,Management Issues
+EMP0251,Ankita Agarwal,51,Male,MBA,Noida,Product,Product Manager,Mid,Remote,2022-10-30,3.4,1088468,4,5,No,No,N/A
+EMP0252,Nitin Joshi,28,Male,B.Com,Gurgaon,DevOps,Cloud Engineer,Junior,On-site,2020-07-07,5.7,430213,2,1,No,Yes,Compensation
+EMP0253,Neha Mishra,43,Female,MBA,Pune,Finance,Financial Controller,Manager,Hybrid,2018-08-10,7.7,3007380,3,4,No,No,N/A
+EMP0254,Ankita Sharma,23,Female,B.Com,Bangalore,Product,Product Analyst,Junior,Hybrid,2020-02-03,4.0,512364,2,2,Yes,Yes,Relocation
+EMP0255,Deepak Garg,22,Male,MBA,Mumbai,Data & Analytics,Data Scientist,Senior,Hybrid,2020-10-09,3.0,1464650,5,3,No,No,N/A
+EMP0256,Lata Pandey,41,Male,MCA,Hyderabad,Marketing,Content Strategist,Mid,Hybrid,2022-09-19,3.5,1006439,1,1,No,No,N/A
+EMP0257,Rohan Agarwal,42,Female,B.Com,Noida,Product,Product Analyst,Director,On-site,2021-11-28,4.4,5161339,3,3,Yes,Yes,Work-Life Balance
+EMP0258,Tarun Verma,22,Female,BCA,Mumbai,HR,HR Analyst,Junior,Hybrid,2025-08-12,0.6,660766,3,3,No,No,N/A
+EMP0259,Gaurav Kapoor,47,Female,MBA,Hyderabad,Sales,Sales Lead,Mid,Hybrid,2023-08-07,2.7,1175280,3,5,No,No,N/A
+EMP0260,Tarun Garg,39,Male,B.Com,Chennai,Data & Analytics,BI Developer,Senior,Hybrid,2020-04-25,5.9,1912730,3,1,Yes,No,N/A
+EMP0261,Sneha Das,49,Male,MCA,Noida,Marketing,Content Strategist,Mid,On-site,2019-08-02,6.7,946696,1,5,Yes,No,N/A
+EMP0262,Pranav Patel,49,Male,MCA,Pune,Marketing,Growth Manager,Junior,Remote,2019-12-15,6.3,472018,2,3,No,No,N/A
+EMP0263,Rekha Saxena,27,Male,B.Com,Hyderabad,Customer Success,CS Specialist,Senior,Remote,2021-10-11,4.5,1865320,1,1,No,Yes,Work-Life Balance
+EMP0264,Kunal Reddy,34,Female,MBA,Mumbai,Design,Product Designer,Senior,Remote,2023-01-28,3.2,1700590,4,1,Yes,No,N/A
+EMP0265,Shreya Gupta,50,Male,B.Tech,Delhi,Engineering,Backend Engineer,Junior,Hybrid,2022-02-15,4.1,563626,2,1,No,No,N/A
+EMP0266,Sneha Gupta,38,Female,B.Com,Noida,Customer Success,Onboarding Specialist,Mid,Remote,2022-01-19,4.2,927365,2,3,No,No,N/A
+EMP0267,Harsh Agarwal,26,Male,MCA,Delhi,Sales,Sales Executive,Senior,On-site,2020-08-19,5.6,1969735,1,5,Yes,Yes,Management Issues
+EMP0268,Karan Ghosh,23,Male,MCA,Pune,Design,UI/UX Designer,Senior,Remote,2025-09-08,0.6,1313365,1,1,Yes,Yes,Relocation
+EMP0269,Ishaan Das,25,Female,B.Tech,Delhi,Engineering,Frontend Engineer,Mid,Remote,2025-09-10,0.6,972791,3,5,Yes,No,N/A
+EMP0270,Sunita Bhat,28,Female,MCA,Gurgaon,Product,Product Analyst,Junior,Hybrid,2021-03-19,5.0,674279,2,3,No,Yes,Better Opportunity
+EMP0271,Ishaan Kapoor,24,Male,B.Sc,Gurgaon,Sales,Sales Executive,Junior,Hybrid,2019-07-03,5.0,659052,2,1,Yes,No,N/A
+EMP0272,Karan Kumar,48,Female,B.Tech,Bangalore,Marketing,Growth Manager,Junior,Remote,2020-03-22,6.0,420680,3,3,No,No,N/A
+EMP0273,Manish Menon,36,Male,M.Tech,Gurgaon,Data & Analytics,BI Developer,Mid,Hybrid,2025-03-27,1.0,840671,1,3,No,Yes,Relocation
+EMP0274,Siddharth Menon,45,Male,M.Tech,Chennai,Data & Analytics,Data Analyst,Junior,On-site,2018-12-03,7.3,483569,1,4,No,No,N/A
+EMP0275,Amit Sharma,37,Female,MCA,Mumbai,Engineering,Backend Engineer,Mid,On-site,2019-07-13,6.7,1165354,4,4,Yes,Yes,Management Issues
+EMP0276,Siddharth Chauhan,44,Male,B.Com,Bangalore,HR,HR Analyst,Mid,Remote,2025-03-13,1.1,749934,4,2,No,No,N/A
+EMP0277,Nisha Verma,49,Male,BCA,Noida,Data & Analytics,ML Engineer,Lead,Hybrid,2020-02-13,6.1,1878501,4,3,Yes,No,N/A
+EMP0278,Tarun Chauhan,47,Male,M.Tech,Noida,Sales,Sales Executive,Mid,Remote,2024-09-09,1.6,934932,1,4,No,Yes,Relocation
+EMP0279,Pranav Iyer,24,Male,B.Tech,Mumbai,DevOps,Cloud Engineer,Junior,Hybrid,2025-01-14,1.2,559697,5,5,Yes,No,N/A
+EMP0280,Divya Sharma,41,Male,B.Com,Delhi,HR,HR Analyst,Senior,On-site,2023-07-27,2.7,1951470,3,4,Yes,Yes,Management Issues
+EMP0281,Sneha Kumar,23,Female,M.Tech,Mumbai,DevOps,SRE,Senior,Hybrid,2020-02-08,4.0,1716342,2,4,Yes,Yes,Work-Life Balance
+EMP0282,Geeta Das,46,Male,M.Tech,Bangalore,Sales,Sales Lead,Mid,On-site,2022-11-29,3.4,724379,5,1,No,No,N/A
+EMP0283,Rahul Kumar,37,Male,BCA,Chennai,Engineering,Full Stack Engineer,Lead,On-site,2023-12-19,2.3,2619023,2,5,Yes,No,N/A
+EMP0284,Arun Agarwal,51,Male,M.Tech,Delhi,Finance,FP&A Analyst,Director,On-site,2026-01-11,0.2,5041188,3,4,No,No,N/A
+EMP0285,Kavya Tiwari,51,Male,MCA,Pune,DevOps,SRE,Senior,On-site,2024-06-21,1.8,1863311,2,2,Yes,No,N/A
+EMP0286,Shweta Nair,46,Female,M.Tech,Bangalore,Data & Analytics,BI Developer,Senior,On-site,2022-03-19,4.0,1789593,4,5,No,No,N/A
+EMP0287,Siddharth Shah,23,Male,B.Tech,Delhi,Product,Product Manager,Mid,Remote,2025-10-12,0.5,729677,2,3,Yes,No,N/A
+EMP0288,Varun Nair,36,Female,B.Tech,Noida,DevOps,DevOps Engineer,Mid,Hybrid,2019-05-31,6.9,1023018,5,2,No,No,N/A
+EMP0289,Akash Dubey,39,Female,MBA,Mumbai,Finance,Financial Controller,Mid,On-site,2018-11-13,7.4,706797,3,2,No,No,N/A
+EMP0290,Nisha Ghosh,43,Male,B.Sc,Delhi,Sales,Account Manager,Mid,Remote,2019-02-06,7.2,798029,2,5,Yes,Yes,Relocation
+EMP0291,Akash Pandey,26,Female,MBA,Gurgaon,HR,Talent Acquisition Specialist,Senior,On-site,2018-09-17,7.6,1361169,3,5,Yes,No,N/A
+EMP0292,Priya Pillai,44,Male,M.Tech,Hyderabad,DevOps,SRE,Junior,Hybrid,2021-10-29,4.4,675458,2,2,Yes,No,N/A
+EMP0293,Mohit Chauhan,32,Male,MCA,Chennai,Sales,Sales Executive,Senior,Hybrid,2022-04-23,4.0,1507835,2,5,No,No,N/A
+EMP0294,Shweta Yadav,41,Male,BCA,Chennai,Sales,Sales Lead,Senior,On-site,2020-12-30,5.3,1241814,3,4,Yes,No,N/A
+EMP0295,Priya Saxena,31,Male,B.Tech,Hyderabad,DevOps,SRE,Mid,Remote,2025-07-27,0.7,800931,3,5,Yes,No,N/A
+EMP0296,Suresh Verma,25,Male,B.Tech,Pune,Sales,Sales Lead,Mid,Hybrid,2020-07-27,5.7,981938,4,1,Yes,Yes,Management Issues
+EMP0297,Vivaan Rao,29,Female,BCA,Bangalore,DevOps,DevOps Engineer,Senior,On-site,2021-03-01,5.1,1627433,4,4,No,No,N/A
+EMP0298,Shreya Pandey,40,Male,B.Com,Gurgaon,Design,UI/UX Designer,Senior,Hybrid,2018-10-10,7.5,1934928,1,3,Yes,Yes,Management Issues
+EMP0299,Vikram Nair,27,Female,B.Com,Chennai,Finance,Financial Controller,Junior,Remote,2024-03-31,2.0,515272,2,4,No,No,N/A
+EMP0300,Tarun Yadav,23,Female,MBA,Mumbai,DevOps,Cloud Engineer,Junior,Hybrid,2018-04-27,4.0,606612,5,5,Yes,No,N/A
+EMP0301,Rekha Garg,29,Male,B.Com,Gurgaon,DevOps,DevOps Engineer,Junior,On-site,2025-03-07,1.1,532509,2,1,Yes,No,N/A
+EMP0302,Rajesh Patel,24,Female,B.Sc,Hyderabad,DevOps,DevOps Engineer,Mid,Hybrid,2021-01-27,5.2,751486,2,5,No,No,N/A
+EMP0303,Vikram Mishra,32,Female,B.Com,Chennai,Design,UI/UX Designer,Manager,Hybrid,2023-09-18,2.5,3445073,3,5,No,No,N/A
+EMP0304,Kunal Iyer,47,Female,M.Tech,Gurgaon,Data & Analytics,Data Analyst,Mid,Hybrid,2020-09-30,5.5,1073397,4,3,No,No,N/A
+EMP0305,Sneha Shah,27,Female,MCA,Hyderabad,Marketing,Growth Manager,Senior,On-site,2025-07-03,0.8,1836095,1,3,Yes,No,N/A
+EMP0306,Pooja Malhotra,42,Male,MBA,Gurgaon,Product,Product Manager,Lead,On-site,2018-08-12,7.7,2652117,5,5,No,No,N/A
+EMP0307,Kabir Rao,50,Male,B.Tech,Mumbai,Data & Analytics,BI Developer,Mid,On-site,2024-11-16,1.4,1084422,3,2,No,No,N/A
+EMP0308,Aditya Mehta,27,Female,B.Sc,Hyderabad,Data & Analytics,Data Scientist,Mid,Hybrid,2024-08-12,1.6,1197398,5,2,No,No,N/A
+EMP0309,Aditya Chauhan,28,Male,MCA,Delhi,HR,HR Business Partner,Junior,On-site,2024-01-27,2.2,589399,4,4,No,No,N/A
+EMP0310,Deepak Malhotra,27,Male,M.Tech,Chennai,Marketing,Content Strategist,Mid,Hybrid,2022-06-27,3.8,1042714,4,3,Yes,No,N/A
+EMP0311,Harsh Shah,22,Male,B.Sc,Pune,Customer Success,CS Specialist,Lead,Hybrid,2023-11-22,2.4,2724879,2,4,Yes,Yes,Personal Reasons
+EMP0312,Neha Joshi,43,Female,MCA,Noida,Design,UX Researcher,Lead,Remote,2020-11-05,5.4,2234753,3,1,No,No,N/A
+EMP0313,Ananya Das,40,Female,BCA,Bangalore,Sales,Sales Executive,Junior,On-site,2020-01-26,6.2,470634,5,1,Yes,Yes,Compensation
+EMP0314,Geeta Bansal,41,Female,BCA,Delhi,Marketing,Marketing Analyst,Junior,Remote,2023-07-20,2.7,652532,2,2,No,No,N/A
+EMP0315,Ankita Tiwari,24,Male,B.Sc,Hyderabad,HR,Talent Acquisition Specialist,Senior,Remote,2020-11-03,5.4,1596583,4,2,Yes,Yes,Personal Reasons
+EMP0316,Lata Ghosh,50,Female,B.Com,Noida,Customer Success,Onboarding Specialist,Senior,On-site,2024-03-22,2.0,1727778,1,1,No,No,N/A
+EMP0317,Tarun Malhotra,44,Female,MCA,Hyderabad,Finance,FP&A Analyst,Lead,Hybrid,2024-03-16,2.1,2249793,2,4,No,No,N/A
+EMP0318,Aarav Dubey,29,Female,B.Tech,Hyderabad,Data & Analytics,BI Developer,Mid,On-site,2019-03-16,7.1,848513,5,5,No,No,N/A
+EMP0319,Geeta Shah,44,Male,BCA,Noida,Engineering,Full Stack Engineer,Senior,On-site,2021-10-21,4.5,1628705,3,1,Yes,No,N/A
+EMP0320,Sunita Bhat,43,Male,MBA,Chennai,HR,HR Analyst,Mid,On-site,2022-09-20,3.5,1095822,2,4,No,Yes,Personal Reasons
+EMP0321,Manish Agarwal,49,Male,BCA,Bangalore,Finance,Financial Controller,Junior,Remote,2025-08-28,0.6,462435,2,4,Yes,Yes,Personal Reasons
+EMP0322,Nikhil Singh,24,Female,MCA,Noida,Finance,Financial Controller,Junior,Hybrid,2019-11-23,5.0,647290,5,4,Yes,Yes,Work-Life Balance
+EMP0323,Pallavi Nair,44,Male,B.Com,Mumbai,Design,UX Researcher,Mid,On-site,2024-12-18,1.3,730127,2,4,No,Yes,Management Issues
+EMP0324,Manish Rao,42,Female,BCA,Bangalore,Data & Analytics,Data Analyst,Mid,On-site,2018-04-08,8.0,782546,1,3,No,No,N/A
+EMP0325,Nisha Mehta,45,Female,B.Sc,Gurgaon,Product,Product Manager,Mid,Hybrid,2024-07-14,1.7,1179728,5,3,No,No,N/A
+EMP0326,Karan Agarwal,35,Male,MBA,Delhi,Design,UI/UX Designer,Mid,On-site,2023-12-10,2.3,755818,5,1,No,No,N/A
+EMP0327,Vivaan Bhat,46,Male,B.Tech,Noida,Customer Success,CS Specialist,Senior,On-site,2020-12-28,5.3,1994268,3,4,No,No,N/A
+EMP0328,Riya Mehta,47,Male,M.Tech,Chennai,Sales,Sales Lead,Senior,Remote,2021-10-21,4.5,1632459,3,5,Yes,No,N/A
+EMP0329,Siddharth Malhotra,33,Female,M.Tech,Mumbai,DevOps,DevOps Engineer,Mid,Remote,2020-09-18,5.5,1168879,5,3,Yes,No,N/A
+EMP0330,Siddharth Tiwari,28,Male,B.Tech,Bangalore,Sales,Account Manager,Junior,Hybrid,2021-01-23,5.2,586660,2,1,Yes,No,N/A
+EMP0331,Ankita Shah,50,Male,B.Com,Pune,HR,HR Analyst,Mid,Remote,2024-09-15,1.6,1155485,3,4,Yes,No,N/A
+EMP0332,Karan Dubey,39,Male,MBA,Bangalore,DevOps,SRE,Mid,Remote,2018-08-18,7.6,963441,3,4,Yes,No,N/A
+EMP0333,Neha Pandey,32,Male,B.Sc,Gurgaon,Sales,Account Manager,Senior,Hybrid,2022-04-27,3.9,1842544,3,2,No,No,N/A
+EMP0334,Rekha Tiwari,33,Male,B.Tech,Delhi,Sales,Account Manager,Senior,Remote,2022-05-11,3.9,1620051,3,4,Yes,No,N/A
+EMP0335,Rahul Kapoor,28,Female,BCA,Chennai,DevOps,SRE,Lead,Hybrid,2019-11-25,6.4,2638900,2,4,Yes,Yes,Relocation
+EMP0336,Neha Bansal,40,Female,M.Tech,Chennai,Marketing,Growth Manager,Senior,Hybrid,2018-10-19,7.5,1617754,1,2,Yes,Yes,Compensation
+EMP0337,Lata Joshi,51,Female,MCA,Pune,HR,Talent Acquisition Specialist,Senior,Hybrid,2021-02-25,5.1,1560857,1,4,Yes,Yes,Management Issues
+EMP0338,Vikram Garg,37,Male,B.Com,Chennai,HR,Talent Acquisition Specialist,Senior,Hybrid,2023-04-11,3.0,1282216,4,5,No,No,N/A
+EMP0339,Kavya Dubey,51,Male,MCA,Noida,Design,UX Researcher,Mid,Hybrid,2019-01-24,7.2,741477,2,3,Yes,Yes,Management Issues
+EMP0340,Gaurav Shah,38,Female,MCA,Hyderabad,Customer Success,CS Specialist,Senior,Remote,2023-04-25,2.9,1634098,2,2,Yes,Yes,Work-Life Balance
+EMP0341,Kabir Kumar,24,Male,B.Sc,Hyderabad,Data & Analytics,ML Engineer,Junior,On-site,2023-07-28,2.7,687537,1,1,No,No,N/A
+EMP0342,Rajesh Garg,45,Female,B.Com,Gurgaon,Finance,FP&A Analyst,Junior,Hybrid,2021-06-13,4.8,632343,2,2,Yes,Yes,Management Issues
+EMP0343,Akash Kapoor,26,Female,BCA,Delhi,DevOps,SRE,Mid,Hybrid,2026-02-01,0.2,982742,2,5,No,No,N/A
+EMP0344,Aarav Sharma,24,Male,B.Com,Pune,Customer Success,Onboarding Specialist,Junior,Hybrid,2023-03-21,3.0,561411,3,4,No,No,N/A
+EMP0345,Kavya Pandey,44,Male,B.Tech,Chennai,Marketing,Growth Manager,Mid,Remote,2023-10-12,2.5,1196478,4,3,Yes,No,N/A
+EMP0346,Vijay Chauhan,29,Male,B.Com,Delhi,Finance,Financial Controller,Mid,Hybrid,2020-02-04,6.2,1074833,4,4,Yes,No,N/A
+EMP0347,Usha Menon,49,Male,BCA,Gurgaon,DevOps,SRE,Mid,Remote,2019-01-12,7.2,795633,2,3,Yes,No,N/A
+EMP0348,Kunal Sharma,39,Male,B.Sc,Bangalore,HR,HR Business Partner,Junior,Hybrid,2018-07-06,7.8,497484,1,3,No,Yes,Relocation
+EMP0349,Rohan Shah,47,Female,B.Tech,Gurgaon,Sales,Account Manager,Mid,Remote,2023-11-08,2.4,894719,4,1,No,Yes,Work-Life Balance
+EMP0350,Sneha Menon,48,Female,B.Tech,Mumbai,Sales,Account Manager,Lead,Hybrid,2018-05-28,7.9,1927885,2,4,No,Yes,Better Opportunity
+EMP0351,Shreya Joshi,51,Male,B.Tech,Mumbai,Finance,Financial Controller,Manager,Remote,2021-11-20,4.4,2832632,1,5,Yes,Yes,Management Issues
+EMP0352,Meera Sharma,22,Female,BCA,Gurgaon,Sales,Sales Lead,Mid,On-site,2020-02-21,3.0,1116489,3,5,Yes,No,N/A
+EMP0353,Mohit Chauhan,24,Male,MBA,Pune,Design,UI/UX Designer,Mid,On-site,2021-01-19,5.2,782679,4,1,No,No,N/A
+EMP0354,Rajesh Yadav,29,Male,B.Tech,Gurgaon,DevOps,DevOps Engineer,Junior,On-site,2021-10-25,4.4,692736,3,4,Yes,Yes,Relocation
+EMP0355,Pranav Shah,44,Female,BCA,Pune,Customer Success,Onboarding Specialist,Mid,Remote,2023-10-05,2.5,799497,5,2,No,No,N/A
+EMP0356,Ankita Rao,48,Female,B.Tech,Chennai,DevOps,DevOps Engineer,Mid,On-site,2021-03-20,5.0,983957,3,4,Yes,No,N/A
+EMP0357,Vikram Pandey,43,Male,M.Tech,Chennai,Sales,Account Manager,Senior,Remote,2024-04-22,2.0,1606313,2,5,No,No,N/A
+EMP0358,Ishaan Verma,23,Female,B.Com,Noida,Product,Associate PM,Senior,On-site,2019-09-20,4.0,1387316,1,2,Yes,No,N/A
+EMP0359,Harsh Bhat,40,Female,B.Com,Hyderabad,Customer Success,Onboarding Specialist,Senior,Hybrid,2021-02-18,5.1,1251470,3,2,Yes,Yes,Work-Life Balance
+EMP0360,Kunal Singh,52,Female,B.Tech,Mumbai,Engineering,Frontend Engineer,Senior,On-site,2022-12-05,3.3,1586996,1,5,No,No,N/A
+EMP0361,Ananya Ghosh,39,Female,M.Tech,Hyderabad,Product,Product Manager,Senior,On-site,2022-08-02,3.7,1398663,2,5,Yes,No,N/A
+EMP0362,Suresh Tiwari,44,Male,BCA,Gurgaon,Design,Product Designer,Senior,Hybrid,2025-09-21,0.5,1647820,1,2,Yes,Yes,Personal Reasons
+EMP0363,Pooja Rao,32,Female,MCA,Delhi,HR,HR Analyst,Director,Hybrid,2022-06-07,3.8,5729493,4,3,Yes,No,N/A
+EMP0364,Shreya Sharma,22,Male,B.Sc,Mumbai,Customer Success,CS Specialist,Manager,Hybrid,2018-08-26,3.0,3096602,5,1,Yes,No,N/A
+EMP0365,Vikram Patel,38,Male,BCA,Mumbai,Engineering,Frontend Engineer,Manager,Remote,2024-07-02,1.8,3696777,5,2,Yes,Yes,Compensation
+EMP0366,Varun Mishra,34,Female,B.Tech,Delhi,Marketing,Growth Manager,Junior,Remote,2024-08-23,1.6,513999,1,3,No,Yes,Management Issues
+EMP0367,Divya Yadav,23,Female,BCA,Bangalore,Design,Product Designer,Junior,On-site,2022-01-05,4.2,582415,4,4,Yes,No,N/A
+EMP0368,Divya Patel,23,Male,MCA,Noida,Finance,Finance Analyst,Mid,Hybrid,2021-11-04,4.4,983078,5,2,No,No,N/A
+EMP0369,Neha Mishra,29,Female,BCA,Noida,Design,UX Researcher,Mid,Hybrid,2023-02-09,3.2,851929,4,2,Yes,No,N/A
+EMP0370,Rekha Joshi,46,Female,MCA,Mumbai,Product,Product Analyst,Mid,Remote,2026-02-02,0.2,768354,2,4,Yes,Yes,Management Issues
+EMP0371,Vijay Reddy,32,Male,MBA,Chennai,Product,Product Analyst,Lead,On-site,2025-12-10,0.3,2769029,5,1,Yes,No,N/A
+EMP0372,Sneha Tiwari,33,Male,B.Com,Hyderabad,Engineering,Frontend Engineer,Junior,Remote,2025-03-05,1.1,631845,5,2,No,Yes,Work-Life Balance
+EMP0373,Vivaan Iyer,51,Male,BCA,Mumbai,Engineering,Backend Engineer,Manager,Remote,2019-12-02,6.3,3103319,1,3,Yes,Yes,Relocation
+EMP0374,Gaurav Das,39,Male,B.Sc,Bangalore,DevOps,Cloud Engineer,Senior,Hybrid,2023-09-06,2.6,1853306,2,1,No,No,N/A
+EMP0375,Gaurav Garg,23,Female,MBA,Hyderabad,Sales,Sales Lead,Senior,Remote,2023-06-24,2.8,1886563,1,1,No,No,N/A
+EMP0376,Shweta Singh,34,Male,BCA,Gurgaon,Marketing,Content Strategist,Mid,On-site,2023-12-19,2.3,1072081,1,3,No,No,N/A
+EMP0377,Rajesh Reddy,38,Female,B.Sc,Delhi,Engineering,Software Engineer,Junior,Remote,2021-09-06,4.6,574886,4,4,Yes,Yes,Management Issues
+EMP0378,Manish Tiwari,48,Male,MCA,Noida,Marketing,Growth Manager,Manager,On-site,2018-08-05,7.7,3663792,3,2,Yes,No,N/A
+EMP0379,Suresh Menon,35,Male,B.Sc,Pune,Design,UX Researcher,Senior,On-site,2020-12-16,5.3,1800727,2,4,No,No,N/A
+EMP0380,Ravi Patel,49,Female,BCA,Pune,DevOps,Cloud Engineer,Lead,Hybrid,2019-10-24,6.5,2124008,5,2,No,No,N/A
+EMP0381,Sanjay Pillai,45,Male,MCA,Delhi,Product,Associate PM,Mid,Remote,2019-08-04,6.7,796539,3,2,Yes,No,N/A
+EMP0382,Divya Tiwari,22,Male,B.Tech,Gurgaon,Sales,Sales Executive,Junior,Remote,2025-02-15,1.1,539912,5,5,Yes,No,N/A
+EMP0383,Sneha Mehta,42,Male,B.Com,Bangalore,DevOps,Cloud Engineer,Mid,Hybrid,2022-06-16,3.8,796456,4,4,No,No,N/A
+EMP0384,Pranav Kapoor,28,Male,M.Tech,Bangalore,Finance,Finance Analyst,Senior,On-site,2020-07-22,5.7,1269348,2,4,No,No,N/A
+EMP0385,Arun Menon,41,Female,B.Tech,Mumbai,Finance,Financial Controller,Mid,On-site,2024-09-04,1.6,1011325,5,5,Yes,No,N/A
+EMP0386,Manish Kapoor,23,Male,B.Com,Delhi,DevOps,SRE,Director,Hybrid,2024-07-08,1.7,5624864,5,1,Yes,No,N/A
+EMP0387,Arun Singh,51,Female,B.Tech,Pune,Data & Analytics,ML Engineer,Mid,On-site,2018-11-16,7.4,1061734,5,2,No,No,N/A
+EMP0388,Kabir Shah,32,Male,MCA,Pune,DevOps,DevOps Engineer,Mid,On-site,2023-04-27,2.9,713061,2,4,Yes,No,N/A
+EMP0389,Ankita Pandey,36,Female,M.Tech,Noida,Product,Product Manager,Junior,Remote,2025-05-17,0.9,590286,1,5,No,No,N/A
+EMP0390,Kunal Saxena,43,Female,MBA,Pune,Data & Analytics,BI Developer,Senior,Remote,2019-12-12,6.3,1369999,2,2,Yes,Yes,Compensation
+EMP0391,Aarav Pandey,46,Female,B.Sc,Mumbai,Data & Analytics,Data Scientist,Junior,On-site,2021-02-06,5.2,406400,4,4,No,No,N/A
+EMP0392,Sunita Bansal,24,Female,B.Tech,Pune,Customer Success,CS Specialist,Mid,Remote,2025-01-02,1.3,1014626,1,2,No,No,N/A
+EMP0393,Priya Tiwari,49,Male,MCA,Pune,Engineering,Frontend Engineer,Junior,Hybrid,2018-08-17,7.6,556469,3,1,Yes,Yes,Work-Life Balance
+EMP0394,Sunita Singh,24,Male,B.Sc,Hyderabad,Design,Product Designer,Manager,On-site,2021-08-14,4.6,3177006,3,4,Yes,No,N/A
+EMP0395,Akash Das,38,Non-Binary,M.Tech,Delhi,Marketing,Growth Manager,Mid,Hybrid,2020-08-13,5.6,1064815,2,5,Yes,Yes,Management Issues
+EMP0396,Akash Bhat,40,Male,B.Sc,Mumbai,Design,Product Designer,Mid,On-site,2025-04-02,1.0,885521,2,5,No,No,N/A
+EMP0397,Suresh Reddy,22,Female,MCA,Mumbai,Marketing,Marketing Analyst,Junior,Remote,2023-06-24,2.8,461827,2,5,No,No,N/A
+EMP0398,Karan Tiwari,47,Male,M.Tech,Bangalore,Sales,Sales Lead,Mid,Remote,2019-01-09,7.2,861361,3,5,No,No,N/A
+EMP0399,Akash Menon,51,Female,BCA,Chennai,Sales,Account Manager,Lead,Hybrid,2025-10-21,0.5,2302381,4,1,Yes,No,N/A
+EMP0400,Siddharth Iyer,38,Female,B.Com,Chennai,Finance,Financial Controller,Junior,Remote,2021-08-15,4.6,696192,3,5,Yes,No,N/A
+EMP0401,Mohit Nair,32,Female,MBA,Bangalore,Data & Analytics,BI Developer,Lead,Hybrid,2022-06-21,3.8,2456944,5,2,No,Yes,Better Opportunity
+EMP0402,Aditya Saxena,29,Male,B.Tech,Gurgaon,Finance,Finance Analyst,Mid,On-site,2022-06-07,3.8,936929,3,2,No,Yes,Compensation
+EMP0403,Vikram Saxena,26,Female,B.Com,Pune,Engineering,Full Stack Engineer,Manager,Remote,2020-05-25,5.9,3213274,4,5,No,No,N/A
+EMP0404,Lata Garg,49,Male,M.Tech,Bangalore,Engineering,Full Stack Engineer,Mid,Remote,2024-02-14,2.1,760731,1,3,Yes,No,N/A
+EMP0405,Nisha Ghosh,22,Male,M.Tech,Hyderabad,DevOps,Cloud Engineer,Senior,Hybrid,2024-09-27,1.5,1995338,3,2,No,Yes,Compensation
+EMP0406,Sunita Iyer,22,Male,MCA,Delhi,Data & Analytics,Data Scientist,Mid,On-site,2025-04-01,1.0,993405,5,1,Yes,No,N/A
+EMP0407,Rohan Kumar,41,Male,B.Tech,Noida,Sales,Sales Executive,Junior,Hybrid,2022-01-23,4.2,683418,4,1,Yes,Yes,Management Issues
+EMP0408,Kabir Bansal,31,Female,MCA,Gurgaon,Data & Analytics,ML Engineer,Senior,Remote,2021-12-28,4.3,1407772,5,1,No,No,N/A
+EMP0409,Usha Shah,44,Female,M.Tech,Pune,Customer Success,CS Specialist,Senior,On-site,2023-06-26,2.8,1693403,2,2,Yes,No,N/A
+EMP0410,Priya Nair,22,Female,BCA,Pune,HR,Talent Acquisition Specialist,Mid,On-site,2018-12-30,3.0,949212,1,3,No,No,N/A
+EMP0411,Manish Mishra,47,Male,BCA,Mumbai,Product,Product Analyst,Lead,On-site,2019-06-19,6.8,2141699,5,1,No,No,N/A
+EMP0412,Suresh Ghosh,32,Female,B.Sc,Hyderabad,Data & Analytics,ML Engineer,Mid,On-site,2020-08-06,5.7,1126726,5,4,No,No,N/A
+EMP0413,Arjun Pandey,41,Male,B.Com,Noida,Design,Product Designer,Junior,Hybrid,2023-06-16,2.8,570591,5,1,No,Yes,Relocation
+EMP0414,Arun Ghosh,24,Male,BCA,Gurgaon,Customer Success,Onboarding Specialist,Senior,Remote,2020-09-14,5.6,1345664,5,1,Yes,No,N/A
+EMP0415,Geeta Sharma,31,Female,BCA,Noida,Sales,Sales Lead,Lead,Remote,2024-08-28,1.6,2632932,3,4,No,No,N/A
+EMP0416,Vivaan Mehta,39,Male,BCA,Noida,Marketing,Marketing Analyst,Mid,On-site,2018-11-10,7.4,700442,5,3,Yes,No,N/A
+EMP0417,Deepak Bansal,34,Female,B.Com,Noida,HR,HR Analyst,Mid,Remote,2023-02-22,3.1,985799,2,2,No,Yes,Personal Reasons
+EMP0418,Rahul Singh,22,Male,B.Com,Noida,Marketing,Content Strategist,Junior,Hybrid,2019-01-25,3.0,408235,2,4,No,No,N/A
+EMP0419,Ananya Pillai,36,Female,BCA,Gurgaon,Design,Product Designer,Senior,On-site,2023-12-23,2.3,1644726,5,4,No,No,N/A
+EMP0420,Nitin Reddy,35,Male,M.Tech,Hyderabad,Sales,Sales Lead,Mid,Remote,2024-05-22,1.9,1002174,3,1,Yes,No,N/A
+EMP0421,Tarun Tiwari,24,Female,B.Tech,Delhi,DevOps,SRE,Mid,On-site,2024-02-18,2.1,1166572,5,1,Yes,No,N/A
+EMP0422,Kavya Nair,22,Male,MCA,Delhi,Engineering,Frontend Engineer,Mid,On-site,2023-07-10,2.7,938044,5,4,No,No,N/A
+EMP0423,Usha Sharma,37,Male,B.Tech,Pune,Design,Product Designer,Junior,On-site,2024-09-30,1.5,488646,5,1,No,No,N/A
+EMP0424,Geeta Yadav,41,Male,M.Tech,Chennai,Product,Product Analyst,Mid,Remote,2021-05-31,4.8,844293,3,1,Yes,No,N/A
+EMP0425,Vikram Bansal,27,Male,M.Tech,Noida,Marketing,Content Strategist,Junior,Remote,2024-03-06,2.1,417348,3,1,Yes,No,N/A
+EMP0426,Karan Verma,28,Male,M.Tech,Gurgaon,Customer Success,Onboarding Specialist,Senior,Hybrid,2024-09-28,1.5,1970033,3,1,No,No,N/A
+EMP0427,Pallavi Garg,51,Male,MBA,Gurgaon,Customer Success,Onboarding Specialist,Manager,Hybrid,2024-03-27,2.0,2990023,4,4,No,No,N/A
+EMP0428,Nisha Agarwal,23,Male,MCA,Noida,HR,HR Analyst,Senior,Hybrid,2019-05-10,4.0,1757101,3,4,No,No,N/A
+EMP0429,Siddharth Sharma,46,Female,B.Tech,Noida,Sales,Sales Lead,Senior,Remote,2020-06-13,5.8,1745209,3,2,No,No,N/A
+EMP0430,Kabir Verma,33,Female,MCA,Mumbai,DevOps,DevOps Engineer,Senior,On-site,2020-09-21,5.5,1960480,3,3,Yes,Yes,Personal Reasons
+EMP0431,Varun Gupta,24,Male,M.Tech,Hyderabad,Product,Associate PM,Manager,On-site,2025-01-16,1.2,2772435,4,5,Yes,No,N/A
+EMP0432,Deepak Rao,44,Male,B.Tech,Delhi,Customer Success,CS Specialist,Senior,Hybrid,2025-10-01,0.5,1539113,3,2,Yes,Yes,Better Opportunity
+EMP0433,Pooja Pandey,51,Female,M.Tech,Delhi,Data & Analytics,ML Engineer,Junior,Remote,2020-07-06,5.8,605853,2,4,Yes,Yes,Relocation
+EMP0434,Aarav Malhotra,45,Male,M.Tech,Delhi,Engineering,Software Engineer,Junior,Remote,2021-01-27,5.2,633770,1,4,Yes,No,N/A
+EMP0435,Aarav Rao,38,Female,B.Com,Gurgaon,HR,Talent Acquisition Specialist,Senior,Remote,2023-10-07,2.5,1701365,4,4,Yes,No,N/A
+EMP0436,Harsh Singh,33,Male,B.Com,Chennai,Design,UX Researcher,Manager,Remote,2022-01-01,4.3,3929913,3,4,Yes,No,N/A
+EMP0437,Ishaan Chauhan,27,Female,M.Tech,Hyderabad,Customer Success,CS Specialist,Senior,On-site,2024-06-25,1.8,1241241,4,2,No,No,N/A
+EMP0438,Shweta Chauhan,23,Male,BCA,Gurgaon,Customer Success,Onboarding Specialist,Junior,Remote,2020-06-05,4.0,413298,5,2,No,No,N/A
+EMP0439,Shweta Patel,47,Female,B.Sc,Hyderabad,Engineering,Frontend Engineer,Junior,Remote,2018-09-29,7.5,612602,1,2,No,No,N/A
+EMP0440,Shreya Bansal,37,Female,M.Tech,Pune,Data & Analytics,ML Engineer,Senior,On-site,2025-03-13,1.1,1248026,2,2,Yes,Yes,Better Opportunity
+EMP0441,Siddharth Rao,41,Male,MCA,Pune,Product,Product Manager,Junior,Hybrid,2025-03-02,1.1,515643,1,2,No,Yes,Management Issues
+EMP0442,Sunita Gupta,32,Male,BCA,Bangalore,Sales,Sales Executive,Senior,Remote,2018-12-21,7.3,1326610,3,2,No,Yes,Compensation
+EMP0443,Nitin Chauhan,46,Female,MBA,Noida,Product,Associate PM,Senior,On-site,2020-01-13,6.2,1216389,4,1,Yes,Yes,Better Opportunity
+EMP0444,Usha Dubey,26,Male,B.Sc,Gurgaon,Customer Success,Onboarding Specialist,Junior,On-site,2025-06-09,0.8,542055,5,4,No,Yes,Work-Life Balance
+EMP0445,Ishaan Pandey,31,Male,B.Com,Mumbai,Product,Associate PM,Lead,Hybrid,2022-03-01,4.1,2239128,1,5,Yes,Yes,Personal Reasons
+EMP0446,Aditya Verma,25,Female,MBA,Mumbai,Sales,Account Manager,Junior,Hybrid,2019-12-09,6.3,648728,4,2,Yes,No,N/A
+EMP0447,Swati Das,50,Male,B.Sc,Gurgaon,Marketing,Growth Manager,Senior,On-site,2023-05-07,2.9,1245421,1,1,Yes,Yes,Better Opportunity
+EMP0448,Meera Yadav,45,Male,B.Sc,Noida,Design,Product Designer,Mid,Remote,2025-11-08,0.4,1171006,3,2,Yes,Yes,Better Opportunity
+EMP0449,Rahul Menon,23,Female,MCA,Chennai,Product,Product Analyst,Senior,Hybrid,2023-02-25,3.1,1351981,2,5,No,Yes,Compensation
+EMP0450,Pranav Pillai,44,Male,MBA,Mumbai,Sales,Account Manager,Junior,Hybrid,2024-08-22,1.6,431274,3,2,Yes,No,N/A
+EMP0451,Swati Garg,42,Non-Binary,BCA,Gurgaon,Design,UI/UX Designer,Lead,Hybrid,2025-02-13,1.1,2749567,2,5,Yes,Yes,Personal Reasons
+EMP0452,Geeta Patel,45,Female,B.Tech,Noida,Marketing,Marketing Analyst,Senior,Remote,2021-01-11,5.2,1459870,3,4,Yes,No,N/A
+EMP0453,Varun Bansal,38,Male,M.Tech,Mumbai,Engineering,Full Stack Engineer,Senior,Remote,2018-08-22,7.6,1646376,5,4,No,No,N/A
+EMP0454,Kabir Sharma,35,Male,MBA,Pune,DevOps,DevOps Engineer,Senior,On-site,2020-09-15,5.6,1339158,3,3,Yes,No,N/A
+EMP0455,Nikhil Chauhan,22,Male,MCA,Bangalore,Customer Success,Onboarding Specialist,Senior,On-site,2023-05-14,2.9,1686288,2,4,Yes,No,N/A
+EMP0456,Usha Ghosh,32,Female,B.Sc,Hyderabad,Product,Product Analyst,Manager,On-site,2024-03-20,2.0,2568606,3,4,No,No,N/A
+EMP0457,Aditya Reddy,38,Male,MCA,Hyderabad,HR,HR Analyst,Manager,On-site,2025-10-30,0.4,3263343,1,1,No,Yes,Personal Reasons
+EMP0458,Mohit Mehta,29,Male,MBA,Noida,Sales,Sales Executive,Director,Hybrid,2024-04-25,1.9,4476295,4,5,Yes,No,N/A
+EMP0459,Siddharth Bansal,36,Male,MBA,Gurgaon,Engineering,Software Engineer,Mid,On-site,2023-09-19,2.5,962904,5,1,No,No,N/A
+EMP0460,Ananya Nair,47,Female,B.Tech,Hyderabad,HR,HR Analyst,Manager,Remote,2018-12-31,7.3,2895006,4,1,Yes,No,N/A
+EMP0461,Siddharth Ghosh,37,Female,M.Tech,Chennai,Marketing,Marketing Analyst,Senior,Hybrid,2019-12-14,6.3,1414178,5,1,No,No,N/A
+EMP0462,Harsh Chauhan,31,Female,M.Tech,Gurgaon,Customer Success,Onboarding Specialist,Senior,Hybrid,2020-05-20,5.9,1266007,1,2,No,Yes,Compensation
+EMP0463,Kavya Saxena,47,Female,B.Sc,Chennai,Marketing,Content Strategist,Junior,Hybrid,2021-09-13,4.6,490039,3,2,No,No,N/A
+EMP0464,Aditya Iyer,27,Female,M.Tech,Delhi,Customer Success,CS Manager,Senior,Hybrid,2024-04-07,2.0,1499102,2,2,Yes,Yes,Better Opportunity
+EMP0465,Priya Ghosh,23,Male,B.Tech,Noida,Data & Analytics,Data Scientist,Senior,Hybrid,2025-09-23,0.5,1532339,3,2,No,No,N/A
+EMP0466,Kavya Saxena,26,Non-Binary,BCA,Pune,Data & Analytics,ML Engineer,Manager,On-site,2018-04-24,8.0,3645350,5,3,No,No,N/A
+EMP0467,Usha Bansal,45,Male,MBA,Hyderabad,Customer Success,CS Specialist,Senior,Hybrid,2023-08-20,2.6,1242027,2,5,Yes,Yes,Relocation
+EMP0468,Kabir Das,29,Male,M.Tech,Chennai,Engineering,Backend Engineer,Senior,On-site,2021-05-19,4.9,1405222,1,1,No,No,N/A
+EMP0469,Nikhil Sharma,51,Male,MBA,Delhi,Design,UX Researcher,Manager,Hybrid,2025-09-28,0.5,3257207,4,2,No,No,N/A
+EMP0470,Vijay Yadav,50,Female,B.Sc,Hyderabad,DevOps,DevOps Engineer,Junior,Remote,2023-03-31,3.0,617899,4,3,Yes,No,N/A
+EMP0471,Akash Malhotra,49,Male,B.Sc,Gurgaon,Sales,Account Manager,Mid,On-site,2024-02-26,2.1,875854,1,5,No,Yes,Relocation
+EMP0472,Shreya Bansal,48,Female,M.Tech,Gurgaon,Design,UI/UX Designer,Junior,Remote,2022-07-18,3.7,551762,5,4,Yes,No,N/A
+EMP0473,Harsh Mehta,31,Male,B.Com,Delhi,Engineering,Software Engineer,Junior,Hybrid,2025-06-12,0.8,647747,1,3,No,Yes,Management Issues
+EMP0474,Karan Reddy,40,Male,BCA,Bangalore,Product,Associate PM,Senior,Hybrid,2023-08-27,2.6,1793047,4,3,No,No,N/A
+EMP0475,Akash Malhotra,36,Female,B.Tech,Delhi,Data & Analytics,Data Analyst,Junior,Hybrid,2026-01-14,0.2,471039,3,2,Yes,Yes,Relocation
+EMP0476,Amit Bansal,38,Female,B.Com,Delhi,DevOps,Cloud Engineer,Manager,Hybrid,2020-06-08,5.8,3817074,2,1,Yes,No,N/A
+EMP0477,Swati Pillai,33,Male,B.Sc,Hyderabad,HR,HR Business Partner,Mid,Remote,2019-11-16,6.4,706762,2,5,No,No,N/A
+EMP0478,Arjun Kumar,47,Female,B.Tech,Gurgaon,Data & Analytics,Data Scientist,Lead,Hybrid,2024-07-12,1.7,2443226,5,5,Yes,No,N/A
+EMP0479,Shreya Sharma,48,Female,B.Tech,Mumbai,Marketing,Content Strategist,Mid,Remote,2023-03-22,3.0,1166472,5,5,No,No,N/A
+EMP0480,Mohit Pillai,28,Male,B.Tech,Bangalore,Data & Analytics,Data Scientist,Mid,On-site,2019-09-22,6.5,741211,4,1,Yes,Yes,Relocation
+EMP0481,Karan Malhotra,25,Female,BCA,Mumbai,DevOps,Cloud Engineer,Junior,Remote,2021-02-06,5.2,422691,1,3,Yes,No,N/A
+EMP0482,Arjun Kumar,49,Female,B.Com,Bangalore,HR,HR Business Partner,Junior,On-site,2021-05-17,4.9,582366,3,2,Yes,No,N/A
+EMP0483,Nitin Bhat,31,Male,BCA,Pune,Sales,Sales Lead,Junior,Hybrid,2020-03-10,6.1,681608,1,1,Yes,No,N/A
+EMP0484,Karan Menon,34,Male,B.Sc,Gurgaon,Product,Product Manager,Lead,Hybrid,2023-01-08,3.2,2024682,5,2,No,Yes,Compensation
+EMP0485,Tarun Nair,24,Female,B.Com,Gurgaon,Marketing,Content Strategist,Senior,Remote,2021-12-10,4.3,1717695,1,4,No,No,N/A
+EMP0486,Swati Tiwari,49,Male,M.Tech,Hyderabad,DevOps,SRE,Mid,Remote,2023-01-23,3.2,798977,1,4,No,Yes,Management Issues
+EMP0487,Suresh Joshi,40,Female,M.Tech,Hyderabad,Data & Analytics,ML Engineer,Mid,Remote,2019-05-28,6.9,1088723,2,1,No,No,N/A
+EMP0488,Lata Rao,46,Non-Binary,BCA,Delhi,Finance,Financial Controller,Mid,Remote,2024-10-15,1.5,1011243,3,4,No,No,N/A
+EMP0489,Arjun Bhat,37,Female,B.Sc,Noida,Customer Success,CS Manager,Junior,On-site,2023-11-03,2.4,521017,2,1,Yes,No,N/A
+EMP0490,Sneha Nair,41,Female,M.Tech,Delhi,HR,HR Business Partner,Mid,On-site,2019-05-06,6.9,1098548,1,5,No,No,N/A
+EMP0491,Arun Menon,52,Male,B.Sc,Delhi,HR,HR Analyst,Mid,On-site,2018-08-14,7.6,925656,1,4,No,Yes,Relocation
+EMP0492,Siddharth Ghosh,31,Female,M.Tech,Pune,Data & Analytics,ML Engineer,Mid,On-site,2022-08-17,3.6,955566,1,5,No,No,N/A
+EMP0493,Aditya Patel,40,Female,MBA,Bangalore,Engineering,Full Stack Engineer,Mid,On-site,2022-07-02,3.8,1023454,3,3,No,Yes,Personal Reasons
+EMP0494,Shreya Mishra,33,Male,MCA,Hyderabad,HR,Talent Acquisition Specialist,Junior,Hybrid,2022-04-09,4.0,615969,3,1,Yes,Yes,Management Issues
+EMP0495,Varun Bhat,39,Female,MBA,Noida,Product,Product Analyst,Junior,On-site,2021-12-02,4.3,419596,4,4,No,No,N/A
+EMP0496,Mohit Tiwari,47,Male,BCA,Delhi,Finance,FP&A Analyst,Senior,Hybrid,2023-09-28,2.5,1304917,2,3,No,No,N/A
+EMP0497,Shreya Mishra,49,Male,B.Sc,Hyderabad,Finance,Finance Analyst,Mid,On-site,2019-02-09,7.2,1140601,5,2,No,No,N/A
+EMP0498,Arjun Chauhan,30,Female,BCA,Delhi,Design,UI/UX Designer,Senior,Hybrid,2019-01-07,7.2,1793943,5,4,No,No,N/A
+EMP0499,Akash Dubey,34,Male,B.Sc,Gurgaon,DevOps,SRE,Junior,Remote,2021-01-30,5.2,670201,4,5,Yes,No,N/A
+EMP0500,Vikram Mehta,39,Male,MCA,Delhi,Customer Success,CS Specialist,Manager,Hybrid,2025-02-25,1.1,3409586,5,1,Yes,No,N/A
+EMP0501,Harsh Gupta,51,Male,BCA,Mumbai,Finance,FP&A Analyst,Lead,Hybrid,2018-12-26,7.3,2464721,2,4,No,No,N/A
+EMP0502,Aditya Joshi,22,Male,B.Sc,Bangalore,Sales,Sales Executive,Junior,Hybrid,2021-01-06,3.0,562812,4,4,No,No,N/A
+EMP0503,Kabir Iyer,42,Female,B.Com,Hyderabad,Marketing,Content Strategist,Senior,Hybrid,2018-09-26,7.5,1957568,4,1,Yes,No,N/A
+EMP0504,Ankita Malhotra,24,Male,MCA,Delhi,HR,HR Analyst,Senior,Hybrid,2022-09-18,3.5,1959414,2,2,Yes,No,N/A
+EMP0505,Pooja Patel,46,Male,B.Sc,Delhi,Product,Product Manager,Senior,Hybrid,2021-10-11,4.5,1545281,5,4,Yes,No,N/A
+EMP0506,Neha Tiwari,23,Male,MBA,Pune,Finance,FP&A Analyst,Lead,Hybrid,2023-10-06,2.5,2359383,3,1,No,No,N/A
+EMP0507,Gaurav Mehta,31,Male,M.Tech,Delhi,Customer Success,Onboarding Specialist,Mid,On-site,2018-07-02,7.8,1038374,5,1,Yes,No,N/A
+EMP0508,Riya Nair,49,Male,B.Com,Mumbai,HR,HR Analyst,Junior,Hybrid,2020-11-30,5.3,631946,4,1,No,No,N/A
+EMP0509,Ravi Bhat,42,Male,M.Tech,Chennai,Sales,Sales Executive,Manager,On-site,2021-10-27,4.4,3851466,4,1,No,No,N/A
+EMP0510,Sunita Yadav,44,Male,MCA,Bangalore,Finance,Finance Analyst,Lead,Remote,2021-03-10,5.1,2330930,1,3,No,No,N/A
+EMP0511,Karan Gupta,26,Male,MCA,Pune,Data & Analytics,ML Engineer,Lead,On-site,2018-04-19,8.0,2220124,2,3,No,No,N/A
+EMP0512,Sneha Singh,49,Male,B.Sc,Noida,Finance,FP&A Analyst,Mid,Hybrid,2019-10-05,6.5,836671,2,5,No,No,N/A
+EMP0513,Rohan Rao,22,Female,BCA,Delhi,Design,UI/UX Designer,Junior,Remote,2024-07-11,1.7,519908,1,4,Yes,Yes,Work-Life Balance
+EMP0514,Swati Kumar,40,Male,B.Sc,Mumbai,Product,Product Analyst,Junior,Hybrid,2019-07-31,6.7,407400,5,4,No,No,N/A
+EMP0515,Kavya Yadav,26,Female,M.Tech,Pune,Marketing,Content Strategist,Mid,Hybrid,2023-02-06,3.2,1148967,2,5,Yes,No,N/A
+EMP0516,Harsh Menon,30,Male,M.Tech,Pune,Data & Analytics,Data Analyst,Mid,Hybrid,2020-11-26,5.4,1023842,4,2,No,No,N/A
+EMP0517,Neha Malhotra,34,Male,BCA,Bangalore,Finance,Financial Controller,Junior,Remote,2023-01-04,3.3,534336,1,1,Yes,Yes,Work-Life Balance
+EMP0518,Riya Gupta,31,Male,MBA,Gurgaon,Marketing,Content Strategist,Senior,Remote,2022-09-09,3.6,1903869,3,2,Yes,No,N/A
+EMP0519,Swati Garg,35,Non-Binary,MBA,Chennai,Product,Product Analyst,Senior,Hybrid,2019-11-08,6.4,1473055,1,3,Yes,No,N/A
+EMP0520,Swati Saxena,46,Female,BCA,Gurgaon,Marketing,Growth Manager,Senior,Remote,2021-03-22,5.0,1742085,3,4,Yes,No,N/A
+EMP0521,Swati Verma,27,Male,MCA,Gurgaon,Sales,Sales Executive,Junior,Hybrid,2018-08-31,7.6,646545,3,2,No,No,N/A
+EMP0522,Ananya Bansal,49,Male,BCA,Delhi,Customer Success,CS Manager,Lead,On-site,2019-12-04,6.3,1929660,3,1,Yes,No,N/A
+EMP0523,Siddharth Kumar,22,Female,B.Tech,Delhi,Design,UI/UX Designer,Senior,On-site,2024-02-29,2.1,1798514,2,4,Yes,Yes,Relocation
+EMP0524,Gaurav Bhat,51,Male,MBA,Bangalore,Product,Product Analyst,Mid,Hybrid,2019-06-15,6.8,1138817,3,2,Yes,Yes,Management Issues
+EMP0525,Tarun Singh,45,Male,BCA,Noida,Engineering,Full Stack Engineer,Mid,Remote,2024-08-24,1.6,767801,2,1,No,Yes,Better Opportunity
+EMP0526,Kavya Chauhan,52,Female,MCA,Pune,Finance,FP&A Analyst,Junior,Remote,2022-09-26,3.5,446760,1,2,Yes,Yes,Relocation
+EMP0527,Nikhil Das,45,Male,M.Tech,Noida,Marketing,Growth Manager,Lead,Hybrid,2021-09-28,4.5,2747634,5,2,No,No,N/A
+EMP0528,Kabir Verma,24,Male,M.Tech,Mumbai,Marketing,Content Strategist,Senior,On-site,2023-01-01,3.3,1586123,5,2,No,No,N/A
+EMP0529,Shreya Patel,42,Non-Binary,MCA,Delhi,Data & Analytics,ML Engineer,Mid,Remote,2024-02-24,2.1,744024,3,4,No,Yes,Relocation
+EMP0530,Sanjay Kumar,23,Male,MCA,Delhi,DevOps,SRE,Mid,Hybrid,2024-06-10,1.8,740125,1,5,Yes,No,N/A
+EMP0531,Aditya Singh,38,Male,MCA,Delhi,Marketing,Content Strategist,Junior,Hybrid,2018-06-12,7.8,459735,4,2,Yes,No,N/A
+EMP0532,Kabir Yadav,43,Non-Binary,MBA,Hyderabad,Design,UX Researcher,Mid,Hybrid,2023-04-23,3.0,1027056,3,3,Yes,No,N/A
+EMP0533,Tarun Pandey,25,Female,MBA,Chennai,DevOps,DevOps Engineer,Junior,On-site,2018-05-31,6.0,490038,4,4,No,No,N/A
+EMP0534,Pooja Bhat,26,Female,MCA,Mumbai,Finance,FP&A Analyst,Junior,Hybrid,2018-06-02,7.8,500035,1,1,Yes,No,N/A
+EMP0535,Tarun Dubey,46,Male,M.Tech,Gurgaon,DevOps,DevOps Engineer,Junior,Remote,2023-06-18,2.8,477681,4,4,Yes,Yes,Work-Life Balance
+EMP0536,Vijay Pillai,31,Female,MCA,Delhi,Customer Success,Onboarding Specialist,Junior,Remote,2024-08-25,1.6,605381,1,3,Yes,Yes,Management Issues
+EMP0537,Vijay Mishra,40,Male,B.Tech,Delhi,Customer Success,CS Specialist,Mid,On-site,2025-02-13,1.1,1190356,4,2,Yes,No,N/A
+EMP0538,Sneha Bhat,41,Male,B.Sc,Mumbai,Finance,FP&A Analyst,Junior,On-site,2025-07-05,0.8,581804,4,4,Yes,Yes,Management Issues
+EMP0539,Siddharth Chauhan,44,Female,B.Com,Gurgaon,HR,HR Analyst,Lead,Remote,2025-08-18,0.6,2291223,2,3,No,No,N/A
+EMP0540,Swati Kumar,45,Female,M.Tech,Delhi,Design,UI/UX Designer,Mid,Remote,2019-03-26,7.0,1049729,4,2,Yes,Yes,Personal Reasons
+EMP0541,Ankita Verma,22,Female,MBA,Noida,Sales,Sales Lead,Junior,Remote,2022-04-15,4.0,536738,3,2,Yes,No,N/A
+EMP0542,Sunita Shah,29,Female,B.Com,Hyderabad,Design,UI/UX Designer,Junior,On-site,2023-09-20,2.5,535173,3,3,Yes,No,N/A
+EMP0543,Aditya Das,52,Male,MCA,Hyderabad,Engineering,Full Stack Engineer,Lead,Remote,2019-07-05,6.8,1911035,5,5,Yes,No,N/A
+EMP0544,Suresh Bansal,44,Male,B.Com,Mumbai,HR,HR Business Partner,Senior,Hybrid,2023-03-20,3.0,1998977,5,4,Yes,Yes,Compensation
+EMP0545,Nitin Saxena,47,Male,MCA,Mumbai,Finance,Finance Analyst,Junior,Remote,2023-07-30,2.7,578950,3,5,Yes,Yes,Compensation
+EMP0546,Arun Patel,26,Female,MCA,Hyderabad,DevOps,SRE,Lead,Remote,2023-01-27,3.2,2233491,4,4,No,No,N/A
+EMP0547,Harsh Patel,46,Female,B.Tech,Delhi,HR,Talent Acquisition Specialist,Mid,Hybrid,2020-02-09,6.2,927578,1,4,Yes,No,N/A
+EMP0548,Pallavi Pandey,49,Female,MCA,Noida,Finance,Financial Controller,Senior,Hybrid,2021-09-04,4.6,1956601,3,3,Yes,No,N/A
+EMP0549,Kabir Verma,41,Male,M.Tech,Pune,Sales,Sales Lead,Senior,On-site,2025-07-29,0.7,1663621,3,4,Yes,No,N/A
+EMP0550,Geeta Shah,38,Male,B.Com,Delhi,DevOps,SRE,Junior,On-site,2024-06-14,1.8,563710,5,3,Yes,Yes,Personal Reasons
+EMP0551,Karan Menon,23,Male,MCA,Bangalore,Finance,Financial Controller,Junior,Hybrid,2022-06-12,3.8,536187,5,3,Yes,Yes,Management Issues
+EMP0552,Kavya Tiwari,40,Female,MCA,Pune,HR,HR Business Partner,Lead,On-site,2024-08-09,1.7,2549361,5,5,Yes,No,N/A
+EMP0553,Vikram Dubey,25,Male,M.Tech,Hyderabad,Finance,Financial Controller,Senior,Remote,2021-12-09,4.3,1741538,5,2,No,No,N/A
+EMP0554,Pallavi Saxena,37,Male,MBA,Gurgaon,Engineering,Full Stack Engineer,Lead,On-site,2020-09-02,5.6,2267836,1,3,No,No,N/A
+EMP0555,Swati Dubey,52,Male,MCA,Hyderabad,Finance,FP&A Analyst,Senior,On-site,2023-10-03,2.5,1967260,4,2,Yes,No,N/A
+EMP0556,Sanjay Kumar,45,Male,BCA,Delhi,Sales,Account Manager,Mid,Remote,2020-01-09,6.2,1194964,5,3,Yes,No,N/A
+EMP0557,Vikram Agarwal,31,Female,B.Tech,Delhi,DevOps,DevOps Engineer,Junior,Hybrid,2022-06-18,3.8,558995,3,4,Yes,No,N/A
+EMP0558,Sanjay Bhat,37,Female,BCA,Gurgaon,Sales,Sales Executive,Lead,Hybrid,2018-04-15,8.0,1928270,5,3,Yes,No,N/A
+EMP0559,Gaurav Menon,48,Male,MCA,Chennai,Finance,FP&A Analyst,Lead,Remote,2025-01-20,1.2,1939260,2,5,No,No,N/A
+EMP0560,Arun Yadav,34,Male,B.Tech,Pune,Design,UX Researcher,Senior,On-site,2020-11-15,5.4,1614603,3,5,Yes,No,N/A
+EMP0561,Pallavi Joshi,25,Female,BCA,Bangalore,Engineering,Frontend Engineer,Senior,Remote,2025-06-26,0.8,1786523,1,2,Yes,No,N/A
+EMP0562,Lata Iyer,30,Male,B.Tech,Gurgaon,DevOps,DevOps Engineer,Manager,Remote,2020-07-27,5.7,3014403,5,4,Yes,No,N/A
+EMP0563,Shweta Gupta,22,Male,B.Sc,Delhi,HR,Talent Acquisition Specialist,Junior,Remote,2024-03-08,2.1,566399,4,3,Yes,Yes,Better Opportunity
+EMP0564,Shreya Rao,43,Male,B.Sc,Noida,Data & Analytics,BI Developer,Manager,Hybrid,2020-02-29,6.1,2623551,5,3,Yes,Yes,Better Opportunity
+EMP0565,Mohit Das,50,Male,B.Tech,Delhi,Marketing,Growth Manager,Manager,Remote,2019-08-15,6.6,2608796,2,2,Yes,No,N/A
+EMP0566,Siddharth Kumar,24,Male,BCA,Pune,HR,Talent Acquisition Specialist,Senior,Hybrid,2023-09-11,2.6,1230310,4,2,Yes,Yes,Personal Reasons
+EMP0567,Priya Agarwal,49,Male,M.Tech,Gurgaon,Design,Product Designer,Mid,Remote,2025-05-24,0.9,962370,2,2,No,No,N/A
+EMP0568,Neha Shah,41,Female,B.Com,Noida,Engineering,Full Stack Engineer,Manager,Hybrid,2021-07-04,4.8,3869563,2,1,Yes,No,N/A
+EMP0569,Manish Dubey,31,Male,B.Sc,Delhi,Sales,Sales Lead,Lead,Hybrid,2018-10-10,7.5,1969257,5,5,Yes,No,N/A
+EMP0570,Gaurav Iyer,47,Male,M.Tech,Chennai,Sales,Sales Lead,Mid,Remote,2021-10-31,4.4,1163434,3,3,No,No,N/A
+EMP0571,Shweta Singh,22,Female,MCA,Hyderabad,Data & Analytics,Data Analyst,Senior,On-site,2018-05-16,3.0,1905383,2,4,No,No,N/A
+EMP0572,Varun Sharma,33,Male,MBA,Mumbai,Engineering,Full Stack Engineer,Senior,Hybrid,2022-06-26,3.8,1830520,3,4,Yes,No,N/A
+EMP0573,Akash Nair,46,Female,B.Sc,Mumbai,Engineering,Backend Engineer,Senior,Hybrid,2021-06-01,4.8,1913612,3,2,Yes,No,N/A
+EMP0574,Manish Kumar,50,Female,BCA,Gurgaon,HR,HR Business Partner,Mid,Remote,2026-02-27,0.1,1070654,5,2,Yes,Yes,Management Issues
+EMP0575,Tarun Singh,40,Male,BCA,Mumbai,DevOps,DevOps Engineer,Senior,On-site,2025-10-20,0.5,1915531,5,5,Yes,Yes,Work-Life Balance
+EMP0576,Pranav Sharma,22,Female,MCA,Bangalore,Marketing,Marketing Analyst,Lead,Hybrid,2026-01-13,0.2,2510656,5,5,No,No,N/A
+EMP0577,Divya Verma,43,Male,M.Tech,Gurgaon,Finance,FP&A Analyst,Mid,Hybrid,2024-01-28,2.2,944625,4,3,Yes,No,N/A
+EMP0578,Sneha Gupta,24,Male,B.Tech,Hyderabad,Engineering,Full Stack Engineer,Junior,Remote,2024-09-04,1.6,413302,2,4,Yes,No,N/A
+EMP0579,Suresh Bansal,40,Male,MBA,Mumbai,Customer Success,CS Specialist,Lead,Remote,2025-04-15,1.0,2780482,3,3,Yes,Yes,Work-Life Balance
+EMP0580,Aditya Rao,25,Male,B.Com,Hyderabad,Design,UX Researcher,Mid,Remote,2025-04-11,1.0,934071,5,1,Yes,No,N/A
+EMP0581,Kavya Garg,41,Male,B.Tech,Noida,Engineering,Full Stack Engineer,Junior,Remote,2025-04-14,1.0,626408,1,1,Yes,No,N/A
+EMP0582,Siddharth Agarwal,36,Male,BCA,Chennai,Design,UX Researcher,Senior,On-site,2022-07-27,3.7,1686758,4,5,Yes,No,N/A
+EMP0583,Neha Yadav,41,Female,B.Sc,Mumbai,Sales,Sales Executive,Junior,Remote,2019-01-08,7.2,501509,5,2,No,No,N/A
+EMP0584,Lata Iyer,40,Male,B.Tech,Pune,Engineering,Software Engineer,Junior,Remote,2023-02-25,3.1,669025,3,3,Yes,Yes,Compensation
+EMP0585,Sneha Agarwal,39,Male,B.Sc,Gurgaon,Sales,Sales Lead,Lead,On-site,2018-11-16,7.4,2242563,3,2,Yes,No,N/A
+EMP0586,Priya Kumar,49,Male,B.Com,Bangalore,Customer Success,Onboarding Specialist,Senior,Hybrid,2024-10-01,1.5,1793595,3,5,No,No,N/A
+EMP0587,Ravi Bansal,44,Male,MCA,Noida,Sales,Sales Executive,Senior,Remote,2020-11-05,5.4,1689199,5,2,Yes,No,N/A
+EMP0588,Vikram Nair,22,Male,MCA,Chennai,Finance,Finance Analyst,Lead,Remote,2022-05-02,3.9,1810372,1,3,Yes,No,N/A
+EMP0589,Ananya Bansal,27,Male,B.Tech,Bangalore,Engineering,Backend Engineer,Junior,On-site,2020-09-19,5.5,537362,2,3,Yes,Yes,Better Opportunity
+EMP0590,Gaurav Gupta,50,Female,B.Com,Noida,Data & Analytics,ML Engineer,Senior,On-site,2019-07-05,6.8,1554820,2,3,No,Yes,Compensation
+EMP0591,Amit Pandey,51,Male,MCA,Mumbai,Product,Product Manager,Junior,Remote,2019-09-24,6.5,499426,2,5,No,No,N/A
+EMP0592,Nisha Garg,39,Male,BCA,Gurgaon,Design,UX Researcher,Junior,Remote,2021-07-24,4.7,477891,3,2,Yes,No,N/A
+EMP0593,Pranav Gupta,41,Male,MBA,Gurgaon,Product,Product Analyst,Lead,On-site,2018-12-28,7.3,1975566,5,4,No,No,N/A
+EMP0594,Arun Garg,34,Male,B.Sc,Delhi,Customer Success,CS Specialist,Mid,Hybrid,2025-06-02,0.8,1182966,5,1,Yes,Yes,Work-Life Balance
+EMP0595,Kavya Menon,48,Male,B.Sc,Bangalore,Finance,Financial Controller,Junior,Hybrid,2022-06-17,3.8,533446,5,1,Yes,No,N/A
+EMP0596,Deepak Sharma,36,Male,B.Sc,Delhi,DevOps,Cloud Engineer,Mid,On-site,2023-07-05,2.8,926757,4,3,No,No,N/A
+EMP0597,Ishaan Kumar,31,Male,B.Tech,Mumbai,Product,Product Analyst,Manager,Hybrid,2023-11-22,2.4,3575400,5,1,No,No,N/A
+EMP0598,Mohit Dubey,31,Female,MBA,Bangalore,Sales,Sales Lead,Mid,Hybrid,2025-12-05,0.3,1143258,3,2,Yes,No,N/A
+EMP0599,Mohit Patel,34,Female,B.Sc,Mumbai,Marketing,Growth Manager,Lead,On-site,2022-10-24,3.4,2661784,5,1,No,No,N/A
+EMP0600,Sneha Pillai,40,Female,MCA,Noida,Sales,Account Manager,Junior,Remote,2024-06-17,1.8,645753,4,3,Yes,No,N/A
+EMP0601,Aarav Bhat,22,Female,B.Com,Chennai,Customer Success,CS Specialist,Lead,Hybrid,2022-06-19,3.8,1945699,5,2,No,No,N/A
+EMP0602,Rekha Agarwal,46,Male,B.Sc,Pune,Sales,Account Manager,Mid,Hybrid,2022-10-15,3.5,1099948,5,3,No,No,N/A
+EMP0603,Arjun Ghosh,51,Male,M.Tech,Hyderabad,Design,UX Researcher,Lead,Hybrid,2025-01-29,1.2,2401755,4,4,Yes,No,N/A
+EMP0604,Lata Bhat,31,Male,B.Sc,Hyderabad,Design,Product Designer,Senior,Hybrid,2019-04-23,7.0,1379750,1,5,Yes,Yes,Management Issues
+EMP0605,Priya Iyer,43,Female,M.Tech,Noida,Marketing,Marketing Analyst,Junior,Remote,2024-02-22,2.1,436689,4,1,No,No,N/A
+EMP0606,Gaurav Bhat,37,Male,BCA,Delhi,Product,Product Manager,Mid,On-site,2019-01-13,7.2,903944,2,2,Yes,Yes,Management Issues
+EMP0607,Lata Agarwal,36,Male,MBA,Gurgaon,Sales,Sales Lead,Senior,Hybrid,2021-05-09,4.9,1411500,1,2,No,Yes,Relocation
+EMP0608,Ananya Pillai,24,Male,BCA,Noida,Customer Success,Onboarding Specialist,Junior,Hybrid,2021-06-29,4.8,639236,3,3,No,No,N/A
+EMP0609,Shweta Nair,40,Female,B.Tech,Mumbai,Finance,Financial Controller,Junior,Hybrid,2019-05-03,6.9,606334,1,2,Yes,Yes,Management Issues
+EMP0610,Riya Joshi,33,Male,M.Tech,Bangalore,Finance,Financial Controller,Junior,Remote,2019-02-14,7.1,455167,5,3,No,No,N/A
+EMP0611,Amit Tiwari,34,Female,M.Tech,Gurgaon,Customer Success,CS Specialist,Mid,Remote,2020-06-11,5.8,907971,1,1,No,Yes,Work-Life Balance
+EMP0612,Lata Kumar,44,Male,B.Tech,Noida,Product,Associate PM,Senior,Remote,2023-03-04,3.1,1347068,4,3,Yes,Yes,Better Opportunity
+EMP0613,Aditya Kapoor,43,Female,B.Sc,Gurgaon,Product,Associate PM,Senior,On-site,2021-04-30,4.9,1360952,4,3,Yes,No,N/A
+EMP0614,Ravi Joshi,31,Female,MBA,Mumbai,Engineering,Software Engineer,Mid,Remote,2023-03-30,3.0,727480,5,1,Yes,No,N/A
+EMP0615,Ishaan Agarwal,22,Female,MCA,Pune,Product,Product Manager,Mid,On-site,2022-01-16,3.0,1130192,2,1,Yes,No,N/A
+EMP0616,Manish Pillai,25,Male,B.Sc,Hyderabad,Data & Analytics,Data Analyst,Mid,Hybrid,2021-12-06,4.3,869177,5,2,Yes,No,N/A
+EMP0617,Gaurav Bansal,42,Male,BCA,Chennai,HR,HR Business Partner,Junior,Remote,2021-10-23,4.5,406281,4,2,No,No,N/A
+EMP0618,Lata Iyer,46,Non-Binary,MCA,Noida,Product,Product Manager,Mid,On-site,2024-12-23,1.3,961921,1,5,Yes,Yes,Better Opportunity
+EMP0619,Arun Rao,46,Male,MCA,Mumbai,Data & Analytics,BI Developer,Junior,On-site,2025-12-22,0.3,566706,4,1,No,Yes,Personal Reasons
+EMP0620,Mohit Mehta,29,Female,B.Tech,Pune,Design,UX Researcher,Director,Hybrid,2018-07-02,7.8,6585153,1,3,Yes,No,N/A
+EMP0621,Suresh Patel,34,Male,MCA,Bangalore,Customer Success,CS Specialist,Junior,On-site,2020-07-22,5.7,419874,2,5,No,No,N/A
+EMP0622,Rohan Malhotra,46,Female,B.Sc,Mumbai,Finance,Financial Controller,Lead,On-site,2018-07-13,7.7,2040134,3,3,Yes,No,N/A
+EMP0623,Rohan Chauhan,36,Non-Binary,B.Sc,Pune,Finance,Financial Controller,Mid,Remote,2025-04-29,0.9,703168,1,4,Yes,No,N/A
+EMP0624,Lata Mehta,24,Male,BCA,Gurgaon,Data & Analytics,Data Scientist,Junior,On-site,2023-01-16,3.2,644881,3,2,Yes,Yes,Work-Life Balance
+EMP0625,Arun Pillai,37,Male,MCA,Noida,Sales,Account Manager,Lead,Remote,2019-02-28,7.1,2797209,3,4,No,No,N/A
+EMP0626,Ananya Shah,35,Male,MBA,Gurgaon,Customer Success,CS Manager,Senior,Hybrid,2019-03-13,7.1,1995720,3,5,Yes,No,N/A
+EMP0627,Aarav Sharma,24,Female,MCA,Chennai,Finance,Financial Controller,Senior,Hybrid,2021-12-31,4.3,1343294,4,2,Yes,No,N/A
+EMP0628,Aditya Malhotra,45,Male,BCA,Pune,Finance,FP&A Analyst,Manager,Remote,2022-06-13,3.8,3305384,4,3,Yes,No,N/A
+EMP0629,Vijay Yadav,46,Male,M.Tech,Bangalore,Finance,FP&A Analyst,Lead,Hybrid,2022-03-04,4.1,2334363,4,3,Yes,No,N/A
+EMP0630,Harsh Dubey,36,Female,M.Tech,Hyderabad,Engineering,Backend Engineer,Mid,On-site,2025-11-25,0.4,777262,3,2,Yes,Yes,Better Opportunity
+EMP0631,Kunal Pillai,35,Female,MCA,Hyderabad,Sales,Account Manager,Junior,Remote,2021-02-05,5.2,558450,5,5,No,No,N/A
+EMP0632,Swati Sharma,30,Male,B.Com,Noida,Design,Product Designer,Lead,On-site,2020-08-12,5.6,2775193,4,3,Yes,No,N/A
+EMP0633,Ankita Kumar,35,Male,B.Com,Mumbai,Finance,Financial Controller,Mid,Remote,2020-03-05,6.1,792485,3,2,Yes,Yes,Work-Life Balance
+EMP0634,Priya Singh,47,Male,M.Tech,Hyderabad,Sales,Sales Executive,Senior,Hybrid,2020-05-31,5.8,1471950,4,4,Yes,No,N/A
+EMP0635,Gaurav Mishra,29,Female,B.Tech,Hyderabad,Product,Product Analyst,Junior,Remote,2023-08-16,2.6,654381,1,1,Yes,Yes,Better Opportunity
+EMP0636,Suresh Reddy,38,Female,MBA,Chennai,DevOps,DevOps Engineer,Mid,Remote,2021-03-30,5.0,1188703,4,4,No,No,N/A
+EMP0637,Varun Rao,41,Female,B.Sc,Bangalore,HR,HR Analyst,Mid,On-site,2018-11-27,7.4,886661,3,1,Yes,No,N/A
+EMP0638,Gaurav Joshi,44,Male,MCA,Chennai,Product,Associate PM,Mid,Remote,2021-01-19,5.2,893163,4,5,No,No,N/A
+EMP0639,Usha Agarwal,45,Male,M.Tech,Gurgaon,HR,HR Business Partner,Manager,On-site,2021-11-30,4.3,3921721,4,2,No,No,N/A
+EMP0640,Shreya Bansal,41,Female,BCA,Gurgaon,Product,Associate PM,Mid,Remote,2020-06-14,5.8,1073262,2,5,Yes,Yes,Better Opportunity
+EMP0641,Vivaan Gupta,39,Female,MBA,Noida,Customer Success,CS Manager,Mid,Hybrid,2020-12-18,5.3,827588,2,2,Yes,Yes,Management Issues
+EMP0642,Suresh Garg,37,Male,BCA,Hyderabad,Sales,Sales Lead,Mid,On-site,2025-10-13,0.5,764538,2,5,No,Yes,Management Issues
+EMP0643,Karan Nair,45,Male,B.Tech,Chennai,HR,Talent Acquisition Specialist,Manager,On-site,2022-07-18,3.7,3871368,5,4,Yes,No,N/A
+EMP0644,Aarav Nair,25,Male,BCA,Mumbai,Design,UI/UX Designer,Senior,Hybrid,2024-09-08,1.6,1585600,2,3,No,No,N/A
+EMP0645,Shweta Garg,47,Male,B.Sc,Delhi,Finance,FP&A Analyst,Lead,Remote,2025-11-18,0.4,2779291,2,5,Yes,Yes,Better Opportunity
+EMP0646,Karan Shah,41,Non-Binary,MCA,Gurgaon,Customer Success,Onboarding Specialist,Mid,On-site,2021-06-10,4.8,776478,1,5,No,Yes,Management Issues
+EMP0647,Divya Dubey,52,Female,B.Com,Pune,Sales,Account Manager,Mid,Hybrid,2022-06-27,3.8,730834,3,2,Yes,No,N/A
+EMP0648,Neha Reddy,43,Female,M.Tech,Hyderabad,Finance,FP&A Analyst,Director,On-site,2020-01-19,6.2,4090453,5,4,No,No,N/A
+EMP0649,Rohan Garg,28,Female,MBA,Gurgaon,Marketing,Growth Manager,Senior,On-site,2026-02-15,0.1,1774630,4,1,Yes,Yes,Personal Reasons
+EMP0650,Sneha Yadav,37,Female,MBA,Hyderabad,Data & Analytics,Data Scientist,Mid,On-site,2021-07-12,4.7,1170400,2,2,Yes,No,N/A
+EMP0651,Ananya Verma,35,Male,BCA,Chennai,Data & Analytics,ML Engineer,Manager,On-site,2025-11-19,0.4,2852789,1,1,No,No,N/A
+EMP0652,Varun Pandey,34,Female,MCA,Noida,Finance,Finance Analyst,Senior,On-site,2021-01-04,5.3,1235644,1,2,No,No,N/A
+EMP0653,Karan Bhat,42,Female,BCA,Mumbai,Product,Product Analyst,Lead,Remote,2022-07-20,3.7,2088584,4,3,Yes,Yes,Better Opportunity
+EMP0654,Harsh Dubey,37,Male,BCA,Pune,Design,UX Researcher,Director,Remote,2021-05-02,4.9,6909697,1,5,Yes,No,N/A
+EMP0655,Shweta Agarwal,49,Female,M.Tech,Hyderabad,HR,HR Business Partner,Senior,On-site,2024-04-16,2.0,1393871,4,1,No,No,N/A
+EMP0656,Varun Gupta,47,Male,M.Tech,Chennai,Design,UX Researcher,Senior,Remote,2025-07-28,0.7,1330117,2,1,Yes,No,N/A
+EMP0657,Ankita Nair,42,Male,BCA,Pune,Engineering,Backend Engineer,Senior,Hybrid,2020-01-27,6.2,1292086,5,3,Yes,Yes,Better Opportunity
+EMP0658,Swati Dubey,52,Male,MBA,Mumbai,Engineering,Backend Engineer,Mid,On-site,2024-02-02,2.2,1174281,3,5,No,No,N/A
+EMP0659,Lata Ghosh,29,Male,MBA,Delhi,Product,Associate PM,Lead,Remote,2018-09-04,7.6,1997209,2,3,Yes,No,N/A
+EMP0660,Siddharth Pillai,30,Female,B.Sc,Mumbai,Design,Product Designer,Junior,Remote,2021-03-09,5.1,600163,2,4,No,Yes,Compensation
+EMP0661,Vikram Iyer,28,Non-Binary,M.Tech,Noida,Marketing,Content Strategist,Senior,Remote,2022-06-09,3.8,1791021,5,5,Yes,No,N/A
+EMP0662,Kabir Reddy,25,Female,B.Com,Delhi,Design,UI/UX Designer,Junior,Remote,2024-03-22,2.0,457666,5,4,Yes,No,N/A
+EMP0663,Shreya Mishra,34,Female,M.Tech,Hyderabad,Sales,Account Manager,Junior,On-site,2020-10-03,5.5,598512,1,1,Yes,No,N/A
+EMP0664,Ananya Reddy,31,Female,MCA,Noida,HR,HR Analyst,Senior,Hybrid,2024-06-13,1.8,1484220,5,1,Yes,Yes,Relocation
+EMP0665,Nisha Verma,43,Female,MCA,Chennai,Design,UI/UX Designer,Mid,On-site,2024-01-09,2.2,1073934,2,2,Yes,Yes,Management Issues
+EMP0666,Nisha Pillai,44,Male,MCA,Mumbai,Sales,Sales Lead,Senior,Hybrid,2023-05-26,2.9,1391999,4,3,No,No,N/A
+EMP0667,Priya Mishra,32,Male,MCA,Delhi,Product,Product Analyst,Mid,On-site,2019-04-11,7.0,1032753,1,1,Yes,No,N/A
+EMP0668,Siddharth Kapoor,35,Male,B.Tech,Noida,Customer Success,CS Manager,Manager,Remote,2025-11-09,0.4,3566784,2,4,No,No,N/A
+EMP0669,Tarun Tiwari,45,Female,B.Com,Bangalore,Design,UI/UX Designer,Manager,On-site,2018-05-06,7.9,3997702,4,5,No,No,N/A
+EMP0670,Ankita Reddy,50,Female,M.Tech,Gurgaon,Customer Success,CS Manager,Senior,Hybrid,2024-02-19,2.1,1436001,2,1,No,No,N/A
+EMP0671,Riya Joshi,32,Male,MCA,Noida,Data & Analytics,BI Developer,Manager,Remote,2025-11-17,0.4,3023795,5,1,No,Yes,Compensation
+EMP0672,Usha Menon,50,Male,MBA,Hyderabad,Marketing,Content Strategist,Mid,Remote,2018-08-30,7.6,1190426,4,5,No,Yes,Better Opportunity
+EMP0673,Vikram Pillai,33,Male,M.Tech,Bangalore,HR,HR Analyst,Junior,Remote,2018-05-13,7.9,453130,4,4,Yes,Yes,Personal Reasons
+EMP0674,Gaurav Bansal,33,Male,B.Sc,Chennai,Marketing,Marketing Analyst,Mid,On-site,2021-08-14,4.6,891100,4,2,No,Yes,Relocation
+EMP0675,Tarun Iyer,49,Female,B.Sc,Mumbai,Finance,Finance Analyst,Mid,Hybrid,2020-06-27,5.8,758020,2,3,Yes,Yes,Relocation
+EMP0676,Tarun Bansal,39,Female,B.Sc,Hyderabad,Marketing,Marketing Analyst,Mid,Remote,2023-10-27,2.4,1119336,2,3,No,No,N/A
+EMP0677,Tarun Sharma,38,Male,MBA,Delhi,Engineering,Backend Engineer,Junior,Hybrid,2018-06-01,7.8,523996,1,3,No,No,N/A
+EMP0678,Varun Mehta,26,Female,M.Tech,Mumbai,Product,Product Analyst,Junior,Hybrid,2023-12-31,2.3,497968,2,3,Yes,No,N/A
+EMP0679,Aditya Shah,41,Non-Binary,B.Sc,Noida,Product,Associate PM,Senior,Remote,2020-04-18,6.0,1397833,5,2,Yes,Yes,Relocation
+EMP0680,Vijay Bhat,23,Male,M.Tech,Bangalore,Design,UI/UX Designer,Junior,Hybrid,2022-07-12,3.7,613541,5,3,Yes,No,N/A
+EMP0681,Ananya Verma,52,Male,MCA,Chennai,Product,Product Analyst,Mid,Remote,2022-03-14,4.1,1073075,4,2,No,No,N/A
+EMP0682,Shreya Kumar,41,Male,B.Tech,Pune,Marketing,Growth Manager,Mid,Hybrid,2019-05-24,6.9,925919,2,3,No,No,N/A
+EMP0683,Pooja Mishra,45,Male,B.Tech,Pune,HR,HR Analyst,Lead,On-site,2024-11-13,1.4,2354552,5,3,Yes,No,N/A
+EMP0684,Usha Iyer,52,Male,M.Tech,Mumbai,Design,UI/UX Designer,Junior,On-site,2025-08-08,0.7,499842,2,4,Yes,Yes,Personal Reasons
+EMP0685,Nitin Kumar,35,Female,B.Tech,Gurgaon,Data & Analytics,Data Analyst,Junior,Hybrid,2024-06-08,1.8,532396,5,3,No,No,N/A
+EMP0686,Rohan Agarwal,27,Non-Binary,B.Sc,Noida,DevOps,Cloud Engineer,Lead,Hybrid,2024-12-25,1.3,2087465,2,3,Yes,No,N/A
+EMP0687,Nisha Joshi,27,Male,B.Sc,Mumbai,DevOps,Cloud Engineer,Director,On-site,2023-03-05,3.1,6136068,4,5,No,No,N/A
+EMP0688,Sunita Kumar,45,Male,B.Tech,Mumbai,Engineering,Full Stack Engineer,Mid,Hybrid,2024-02-25,2.1,835703,3,2,No,No,N/A
+EMP0689,Aarav Chauhan,30,Male,BCA,Chennai,Engineering,Backend Engineer,Manager,Hybrid,2019-10-03,6.5,3067142,1,2,Yes,No,N/A
+EMP0690,Akash Bansal,30,Male,MBA,Mumbai,Product,Associate PM,Lead,On-site,2019-10-06,6.5,2228178,5,3,No,No,N/A
+EMP0691,Riya Garg,22,Female,BCA,Mumbai,Marketing,Marketing Analyst,Mid,Hybrid,2024-04-16,2.0,1044623,5,1,No,No,N/A
+EMP0692,Vijay Reddy,40,Male,M.Tech,Hyderabad,Sales,Account Manager,Mid,Hybrid,2025-04-29,0.9,1123484,4,2,No,Yes,Management Issues
+EMP0693,Vivaan Nair,49,Male,B.Sc,Noida,Data & Analytics,ML Engineer,Junior,On-site,2020-03-28,6.0,499016,5,4,Yes,No,N/A
+EMP0694,Rahul Yadav,24,Female,B.Tech,Hyderabad,Design,UI/UX Designer,Junior,Hybrid,2023-01-17,3.2,528583,4,4,Yes,No,N/A
+EMP0695,Lata Sharma,22,Female,B.Tech,Hyderabad,Finance,Finance Analyst,Junior,On-site,2025-06-28,0.8,422932,2,2,Yes,Yes,Management Issues
+EMP0696,Vikram Mehta,26,Male,MCA,Delhi,HR,HR Analyst,Junior,On-site,2023-08-26,2.6,695096,4,2,No,No,N/A
+EMP0697,Vivaan Mehta,23,Male,B.Sc,Chennai,DevOps,DevOps Engineer,Junior,On-site,2019-06-02,4.0,685549,3,1,No,Yes,Work-Life Balance
+EMP0698,Divya Kumar,43,Female,MBA,Chennai,Marketing,Marketing Analyst,Manager,Remote,2022-07-30,3.7,3940253,1,4,Yes,No,N/A
+EMP0699,Suresh Pandey,51,Male,M.Tech,Pune,Design,Product Designer,Junior,On-site,2019-03-20,7.0,422726,5,2,Yes,No,N/A
+EMP0700,Nitin Agarwal,33,Male,B.Tech,Pune,Marketing,Content Strategist,Lead,On-site,2019-06-06,6.8,2084261,4,3,No,No,N/A
+EMP0701,Nisha Patel,36,Male,B.Sc,Pune,Data & Analytics,BI Developer,Junior,Hybrid,2023-08-18,2.6,435291,1,5,No,No,N/A
+EMP0702,Harsh Malhotra,37,Male,M.Tech,Gurgaon,HR,Talent Acquisition Specialist,Mid,On-site,2026-01-15,0.2,917026,5,3,Yes,No,N/A
+EMP0703,Ravi Dubey,48,Female,B.Sc,Hyderabad,DevOps,SRE,Mid,Remote,2020-11-04,5.4,901655,1,5,No,No,N/A
+EMP0704,Rohan Malhotra,49,Male,B.Com,Pune,HR,HR Business Partner,Junior,Hybrid,2018-06-16,7.8,590001,5,4,Yes,No,N/A
+EMP0705,Karan Dubey,39,Female,M.Tech,Bangalore,Customer Success,CS Manager,Lead,On-site,2022-12-26,3.3,2054276,2,2,Yes,No,N/A
+EMP0706,Vikram Singh,25,Male,B.Tech,Noida,Finance,FP&A Analyst,Junior,Remote,2025-09-11,0.6,438676,4,5,Yes,Yes,Compensation
+EMP0707,Arun Agarwal,45,Female,B.Tech,Delhi,Data & Analytics,ML Engineer,Senior,Remote,2024-03-06,2.1,1932497,3,4,No,No,N/A
+EMP0708,Siddharth Kapoor,23,Male,MCA,Delhi,Data & Analytics,Data Analyst,Lead,On-site,2025-01-14,1.2,2587619,2,5,Yes,Yes,Relocation
+EMP0709,Rahul Yadav,35,Male,BCA,Bangalore,DevOps,SRE,Senior,Remote,2020-01-09,6.2,1485031,1,5,No,No,N/A
+EMP0710,Manish Bansal,39,Male,B.Tech,Chennai,Finance,Finance Analyst,Lead,On-site,2025-01-18,1.2,2682600,1,4,No,Yes,Management Issues
+EMP0711,Priya Ghosh,25,Male,B.Sc,Bangalore,Finance,Finance Analyst,Mid,Hybrid,2019-02-19,6.0,890160,5,3,Yes,No,N/A
+EMP0712,Neha Verma,51,Male,B.Tech,Delhi,Sales,Sales Lead,Junior,Remote,2018-08-17,7.6,526004,3,1,Yes,No,N/A
+EMP0713,Ishaan Iyer,38,Male,MCA,Hyderabad,HR,Talent Acquisition Specialist,Manager,On-site,2020-06-13,5.8,3159496,4,3,Yes,No,N/A
+EMP0714,Kabir Kapoor,34,Female,MCA,Mumbai,Data & Analytics,Data Analyst,Senior,Remote,2023-08-12,2.6,1814841,1,3,Yes,Yes,Relocation
+EMP0715,Suresh Nair,38,Male,B.Com,Noida,Data & Analytics,Data Scientist,Director,Remote,2024-01-20,2.2,6553236,5,3,No,No,N/A
+EMP0716,Vikram Saxena,41,Female,BCA,Hyderabad,Finance,Finance Analyst,Junior,Hybrid,2025-01-25,1.2,439320,2,5,No,Yes,Better Opportunity
+EMP0717,Arjun Gupta,51,Female,M.Tech,Delhi,Product,Product Analyst,Mid,Hybrid,2021-07-30,4.7,784658,1,3,No,No,N/A
+EMP0718,Manish Pillai,26,Female,MCA,Pune,Marketing,Growth Manager,Senior,Hybrid,2019-08-27,6.6,1796360,4,1,No,No,N/A
+EMP0719,Aditya Pandey,52,Non-Binary,B.Tech,Mumbai,HR,HR Analyst,Lead,On-site,2021-10-12,4.5,2191835,1,4,No,Yes,Management Issues
+EMP0720,Divya Rao,25,Female,MCA,Hyderabad,DevOps,DevOps Engineer,Junior,Hybrid,2021-07-10,4.7,597038,2,5,No,No,N/A
+EMP0721,Manish Saxena,50,Male,M.Tech,Chennai,Customer Success,CS Specialist,Senior,Remote,2023-06-24,2.8,1314419,1,2,Yes,No,N/A
+EMP0722,Shweta Patel,37,Female,B.Sc,Mumbai,HR,Talent Acquisition Specialist,Director,Hybrid,2020-08-24,5.6,6945621,4,1,No,No,N/A
+EMP0723,Pooja Garg,46,Male,B.Com,Noida,Design,UI/UX Designer,Director,Hybrid,2022-07-12,3.7,4261725,3,4,No,No,N/A
+EMP0724,Arun Garg,26,Male,B.Sc,Delhi,Marketing,Content Strategist,Junior,Remote,2019-01-15,7.2,543605,4,1,No,No,N/A
+EMP0725,Neha Bhat,35,Male,B.Com,Pune,Engineering,Software Engineer,Manager,On-site,2022-02-05,4.2,3122654,2,2,No,No,N/A
+EMP0726,Geeta Pandey,40,Male,MCA,Chennai,Finance,FP&A Analyst,Manager,Remote,2022-08-17,3.6,2520827,5,5,Yes,Yes,Management Issues
+EMP0727,Rahul Chauhan,37,Male,BCA,Hyderabad,Data & Analytics,ML Engineer,Manager,Remote,2021-10-24,4.4,2738250,4,3,Yes,No,N/A
+EMP0728,Sneha Tiwari,35,Female,B.Tech,Chennai,Sales,Sales Lead,Director,Hybrid,2026-01-27,0.2,6290451,2,5,No,Yes,Work-Life Balance
+EMP0729,Rajesh Bansal,38,Male,BCA,Chennai,Engineering,Frontend Engineer,Manager,Remote,2019-08-30,6.6,3966574,4,4,No,No,N/A
+EMP0730,Gaurav Dubey,27,Female,MCA,Delhi,Data & Analytics,ML Engineer,Mid,On-site,2024-06-18,1.8,1011894,2,5,No,No,N/A
+EMP0731,Mohit Pandey,47,Female,B.Tech,Gurgaon,Design,UI/UX Designer,Director,On-site,2019-06-06,6.8,4375968,1,5,No,Yes,Management Issues
+EMP0732,Karan Reddy,49,Female,M.Tech,Noida,Design,UI/UX Designer,Senior,On-site,2022-12-24,3.3,1422162,2,4,No,Yes,Relocation
+EMP0733,Sanjay Tiwari,47,Male,M.Tech,Bangalore,Finance,Finance Analyst,Manager,Remote,2020-10-10,5.5,3564432,3,3,No,No,N/A
+EMP0734,Rekha Pillai,48,Male,M.Tech,Mumbai,Engineering,Backend Engineer,Lead,On-site,2024-01-31,2.2,2659868,5,3,No,No,N/A
+EMP0735,Pallavi Gupta,40,Male,B.Tech,Pune,Finance,Finance Analyst,Lead,On-site,2023-01-28,3.2,1935130,4,2,No,No,N/A
+EMP0736,Vivaan Pillai,34,Male,B.Com,Pune,Product,Associate PM,Senior,Remote,2025-04-19,1.0,1472871,5,2,No,Yes,Better Opportunity
+EMP0737,Ravi Reddy,24,Male,MCA,Mumbai,Design,UX Researcher,Mid,Hybrid,2024-09-04,1.6,900490,1,2,No,No,N/A
+EMP0738,Akash Sharma,45,Female,BCA,Hyderabad,Sales,Sales Lead,Lead,Remote,2022-07-03,3.8,2607814,3,1,No,Yes,Work-Life Balance
+EMP0739,Nikhil Malhotra,26,Female,M.Tech,Hyderabad,Customer Success,Onboarding Specialist,Junior,Hybrid,2021-06-06,4.8,537360,2,1,Yes,No,N/A
+EMP0740,Akash Malhotra,52,Male,B.Sc,Pune,Engineering,Full Stack Engineer,Junior,Hybrid,2025-04-12,1.0,440009,2,4,No,No,N/A
+EMP0741,Usha Pandey,42,Male,B.Sc,Delhi,Engineering,Backend Engineer,Senior,Remote,2025-01-24,1.2,1232978,1,3,No,No,N/A
+EMP0742,Vivaan Iyer,22,Male,B.Tech,Pune,Sales,Sales Lead,Junior,Hybrid,2024-01-27,2.2,668301,2,2,No,Yes,Work-Life Balance
+EMP0743,Manish Malhotra,24,Male,B.Sc,Mumbai,Marketing,Growth Manager,Junior,On-site,2022-03-04,4.1,689143,3,4,No,No,N/A
+EMP0744,Arun Pillai,47,Female,MBA,Chennai,Marketing,Growth Manager,Junior,On-site,2024-11-07,1.4,563360,2,2,No,No,N/A
+EMP0745,Ankita Shah,28,Female,MBA,Chennai,Product,Associate PM,Mid,Hybrid,2024-08-16,1.6,885029,3,1,No,Yes,Better Opportunity
+EMP0746,Nikhil Patel,32,Female,B.Tech,Bangalore,Engineering,Software Engineer,Junior,Hybrid,2023-01-29,3.2,497472,3,2,Yes,Yes,Compensation
+EMP0747,Pooja Das,40,Male,BCA,Delhi,Engineering,Frontend Engineer,Junior,On-site,2021-11-14,4.4,521974,5,1,No,No,N/A
+EMP0748,Swati Bhat,50,Male,MBA,Noida,Design,UX Researcher,Junior,Remote,2025-07-06,0.7,621118,4,3,No,Yes,Better Opportunity
+EMP0749,Rekha Sharma,32,Female,MBA,Pune,Product,Product Analyst,Junior,Hybrid,2024-11-22,1.4,600727,2,5,Yes,Yes,Management Issues
+EMP0750,Manish Singh,22,Female,MBA,Gurgaon,Engineering,Software Engineer,Mid,On-site,2019-01-16,3.0,946359,1,4,No,Yes,Compensation
+EMP0751,Aarav Patel,36,Male,MBA,Noida,Engineering,Full Stack Engineer,Mid,Remote,2023-10-18,2.5,1144948,1,3,Yes,Yes,Better Opportunity
+EMP0752,Aditya Kumar,50,Male,MBA,Hyderabad,Data & Analytics,Data Analyst,Junior,Hybrid,2022-05-26,3.9,681835,1,1,No,No,N/A
+EMP0753,Vikram Saxena,47,Female,B.Com,Noida,HR,HR Analyst,Senior,On-site,2022-07-09,3.7,1483023,2,2,No,Yes,Compensation
+EMP0754,Neha Mehta,38,Male,B.Com,Delhi,Customer Success,Onboarding Specialist,Junior,On-site,2020-12-17,5.3,650571,4,3,No,No,N/A
+EMP0755,Rohan Joshi,49,Male,B.Sc,Gurgaon,Product,Product Analyst,Senior,Hybrid,2020-12-24,5.3,1891515,2,1,Yes,No,N/A
+EMP0756,Harsh Patel,28,Female,B.Tech,Pune,Sales,Account Manager,Junior,Remote,2024-11-19,1.4,676637,5,3,No,No,N/A
+EMP0757,Priya Tiwari,49,Male,B.Com,Hyderabad,HR,Talent Acquisition Specialist,Director,Remote,2025-03-22,1.0,6153624,2,4,Yes,Yes,Relocation
+EMP0758,Pallavi Menon,29,Male,B.Tech,Hyderabad,Customer Success,CS Manager,Senior,Hybrid,2018-06-13,7.8,1683232,2,3,Yes,No,N/A
+EMP0759,Ishaan Verma,38,Female,MCA,Noida,Finance,Finance Analyst,Junior,Remote,2023-02-04,3.2,666299,3,1,No,No,N/A
+EMP0760,Harsh Mehta,41,Female,B.Sc,Hyderabad,Marketing,Marketing Analyst,Mid,Remote,2021-05-11,4.9,977643,5,4,No,Yes,Better Opportunity
+EMP0761,Ishaan Mehta,39,Female,MCA,Delhi,Engineering,Frontend Engineer,Junior,Hybrid,2019-05-25,6.9,544420,2,5,No,No,N/A
+EMP0762,Varun Pandey,33,Male,MBA,Mumbai,Sales,Sales Executive,Lead,Remote,2025-05-28,0.9,2101982,5,3,Yes,Yes,Personal Reasons
+EMP0763,Vivaan Gupta,27,Non-Binary,B.Tech,Pune,HR,HR Analyst,Junior,On-site,2021-12-27,4.3,638664,2,1,No,No,N/A
+EMP0764,Rekha Tiwari,40,Non-Binary,B.Com,Mumbai,Engineering,Frontend Engineer,Manager,On-site,2018-04-11,8.0,3524054,2,4,Yes,Yes,Better Opportunity
+EMP0765,Rajesh Ghosh,46,Male,M.Tech,Delhi,DevOps,DevOps Engineer,Senior,Hybrid,2019-04-26,6.9,1304849,3,3,No,No,N/A
+EMP0766,Pallavi Yadav,31,Female,B.Sc,Noida,Customer Success,CS Manager,Lead,Remote,2022-01-02,4.3,2734671,5,5,No,Yes,Management Issues
+EMP0767,Sneha Malhotra,29,Female,MCA,Hyderabad,Data & Analytics,BI Developer,Mid,Hybrid,2024-09-27,1.5,1088503,4,3,Yes,No,N/A
+EMP0768,Sanjay Shah,50,Male,B.Tech,Chennai,DevOps,SRE,Director,On-site,2024-03-04,2.1,4733802,3,3,No,No,N/A
+EMP0769,Vikram Menon,40,Female,BCA,Delhi,Product,Product Analyst,Lead,On-site,2022-02-26,4.1,2102418,1,1,No,No,N/A
+EMP0770,Geeta Kumar,37,Male,MBA,Bangalore,DevOps,Cloud Engineer,Junior,Hybrid,2021-06-30,4.8,433877,3,1,No,Yes,Compensation
+EMP0771,Nitin Shah,23,Male,MCA,Mumbai,HR,HR Analyst,Lead,Hybrid,2021-01-30,4.0,1944408,3,3,Yes,No,N/A
+EMP0772,Ishaan Kapoor,23,Male,MBA,Delhi,Design,UI/UX Designer,Mid,Remote,2023-07-28,2.7,1189126,3,2,No,No,N/A
+EMP0773,Sneha Nair,32,Male,MBA,Gurgaon,Design,Product Designer,Senior,On-site,2024-09-30,1.5,1345936,2,3,Yes,No,N/A
+EMP0774,Ankita Malhotra,48,Female,MBA,Gurgaon,Data & Analytics,ML Engineer,Lead,Hybrid,2023-03-01,3.1,1900707,2,5,No,No,N/A
+EMP0775,Usha Malhotra,35,Male,B.Sc,Chennai,Finance,FP&A Analyst,Mid,Remote,2023-06-09,2.8,714508,5,1,No,Yes,Work-Life Balance
+EMP0776,Pranav Agarwal,50,Female,BCA,Gurgaon,Design,UX Researcher,Manager,Remote,2021-07-21,4.7,2612273,4,2,No,No,N/A
+EMP0777,Varun Iyer,42,Female,B.Tech,Bangalore,Product,Product Manager,Mid,On-site,2019-06-19,6.8,874841,5,1,No,No,N/A
+EMP0778,Kunal Malhotra,45,Male,M.Tech,Mumbai,Sales,Sales Lead,Junior,Remote,2023-10-26,2.4,471514,2,2,No,No,N/A
+EMP0779,Ankita Menon,50,Male,B.Tech,Delhi,Product,Product Manager,Junior,Hybrid,2019-08-15,6.6,672536,1,2,Yes,Yes,Better Opportunity
+EMP0780,Akash Sharma,48,Male,B.Com,Mumbai,Customer Success,CS Manager,Lead,Remote,2024-05-24,1.9,2072914,5,4,Yes,No,N/A
+EMP0781,Swati Reddy,28,Female,M.Tech,Noida,DevOps,Cloud Engineer,Senior,On-site,2023-08-09,2.7,1703805,3,3,Yes,No,N/A
+EMP0782,Aarav Mishra,35,Male,MCA,Gurgaon,Product,Product Analyst,Mid,Remote,2019-12-04,6.3,714664,3,4,Yes,No,N/A
+EMP0783,Ankita Joshi,45,Male,MCA,Noida,HR,HR Business Partner,Mid,On-site,2023-05-28,2.9,845177,1,2,No,No,N/A
+EMP0784,Rahul Shah,33,Female,MCA,Delhi,Product,Product Manager,Senior,Hybrid,2025-08-14,0.6,1954145,5,3,No,No,N/A
+EMP0785,Geeta Mishra,52,Male,BCA,Noida,Product,Associate PM,Mid,Remote,2023-07-22,2.7,1017635,2,5,No,Yes,Compensation
+EMP0786,Divya Saxena,27,Female,MCA,Mumbai,Engineering,Software Engineer,Lead,Remote,2020-11-11,5.4,1901229,1,4,No,No,N/A
+EMP0787,Arjun Menon,35,Female,BCA,Bangalore,Data & Analytics,ML Engineer,Senior,Remote,2018-12-26,7.3,1264934,5,3,Yes,Yes,Management Issues
+EMP0788,Swati Menon,34,Female,B.Sc,Mumbai,HR,HR Business Partner,Senior,On-site,2019-10-04,6.5,1868357,5,5,Yes,No,N/A
+EMP0789,Aarav Reddy,47,Female,BCA,Hyderabad,Data & Analytics,ML Engineer,Lead,Hybrid,2020-06-02,5.8,1890196,5,1,Yes,Yes,Work-Life Balance
+EMP0790,Sunita Garg,28,Male,B.Tech,Gurgaon,Data & Analytics,ML Engineer,Junior,Hybrid,2024-08-29,1.6,648372,5,3,No,No,N/A
+EMP0791,Shweta Iyer,26,Male,B.Com,Delhi,Finance,Finance Analyst,Senior,Hybrid,2024-01-24,2.2,1512713,1,1,No,Yes,Personal Reasons
+EMP0792,Usha Das,49,Male,BCA,Bangalore,Finance,Financial Controller,Mid,On-site,2020-01-13,6.2,851031,1,5,Yes,No,N/A
+EMP0793,Sneha Iyer,51,Female,B.Tech,Pune,Product,Associate PM,Mid,Remote,2021-03-19,5.0,1042481,1,1,No,No,N/A
+EMP0794,Usha Dubey,46,Female,B.Com,Bangalore,DevOps,Cloud Engineer,Mid,Hybrid,2025-09-14,0.6,1178318,1,2,No,Yes,Personal Reasons
+EMP0795,Ishaan Verma,41,Male,B.Sc,Chennai,Product,Product Analyst,Senior,Hybrid,2019-03-03,7.1,1778211,4,2,No,No,N/A
+EMP0796,Deepak Tiwari,50,Female,B.Tech,Gurgaon,Customer Success,CS Specialist,Lead,Remote,2020-10-25,5.4,1822484,1,1,Yes,No,N/A
+EMP0797,Usha Kapoor,35,Male,B.Sc,Chennai,Finance,FP&A Analyst,Senior,Hybrid,2026-02-16,0.1,1647567,5,2,Yes,No,N/A
+EMP0798,Aarav Garg,40,Female,B.Com,Bangalore,Engineering,Backend Engineer,Junior,Remote,2018-05-18,7.9,519079,4,5,Yes,No,N/A
+EMP0799,Rahul Pandey,31,Male,MCA,Hyderabad,Engineering,Backend Engineer,Mid,On-site,2018-10-03,7.5,864692,3,5,Yes,No,N/A
+EMP0800,Nikhil Saxena,39,Female,B.Com,Mumbai,Product,Product Manager,Mid,On-site,2020-07-28,5.7,959485,3,2,No,No,N/A
+EMP0801,Pooja Malhotra,38,Male,BCA,Mumbai,Marketing,Growth Manager,Senior,Hybrid,2019-06-08,6.8,1256620,3,4,No,No,N/A
+EMP0802,Vivaan Bhat,45,Female,MBA,Delhi,DevOps,DevOps Engineer,Junior,On-site,2019-11-09,6.4,418804,2,4,No,No,N/A
+EMP0803,Deepak Menon,24,Male,B.Sc,Noida,Finance,FP&A Analyst,Lead,Remote,2018-12-07,5.0,2092649,5,4,No,Yes,Relocation
+EMP0804,Riya Agarwal,31,Female,B.Sc,Bangalore,Finance,Financial Controller,Junior,Hybrid,2018-08-13,7.6,683927,3,1,No,No,N/A
+EMP0805,Siddharth Nair,47,Female,BCA,Gurgaon,Design,Product Designer,Lead,Hybrid,2018-11-26,7.4,2646616,1,5,No,No,N/A
+EMP0806,Nisha Agarwal,38,Female,MBA,Hyderabad,Design,UX Researcher,Senior,Remote,2021-03-07,5.1,1370444,4,4,Yes,Yes,Better Opportunity
+EMP0807,Harsh Agarwal,34,Female,B.Tech,Hyderabad,DevOps,SRE,Mid,Hybrid,2018-09-12,7.6,1022724,3,3,No,No,N/A
+EMP0808,Rajesh Bhat,30,Female,BCA,Mumbai,Design,UX Researcher,Mid,Hybrid,2020-04-08,6.0,932683,4,1,No,Yes,Better Opportunity
+EMP0809,Riya Garg,41,Male,B.Sc,Pune,Engineering,Software Engineer,Mid,Remote,2024-06-12,1.8,864640,1,4,Yes,Yes,Compensation
+EMP0810,Aditya Ghosh,25,Female,B.Tech,Delhi,Design,UX Researcher,Junior,Hybrid,2025-08-09,0.7,420186,2,5,No,No,N/A
+EMP0811,Karan Das,23,Male,B.Sc,Chennai,Engineering,Frontend Engineer,Mid,On-site,2024-12-30,1.3,823048,3,1,Yes,No,N/A
+EMP0812,Nikhil Iyer,42,Non-Binary,MCA,Chennai,HR,HR Analyst,Mid,Hybrid,2023-01-17,3.2,1159199,3,2,Yes,No,N/A
+EMP0813,Amit Das,33,Female,MCA,Chennai,Marketing,Content Strategist,Junior,Remote,2018-10-06,7.5,552501,2,5,Yes,Yes,Work-Life Balance
+EMP0814,Rekha Chauhan,45,Male,M.Tech,Hyderabad,Finance,Financial Controller,Junior,On-site,2019-12-12,6.3,599800,1,1,Yes,No,N/A
+EMP0815,Suresh Mehta,38,Female,MBA,Mumbai,Engineering,Full Stack Engineer,Senior,Hybrid,2023-03-18,3.1,1532335,3,2,No,No,N/A
+EMP0816,Ankita Singh,44,Female,MCA,Gurgaon,HR,HR Analyst,Director,On-site,2020-12-19,5.3,5866496,4,3,Yes,No,N/A
+EMP0817,Sanjay Tiwari,29,Female,B.Sc,Delhi,Sales,Account Manager,Lead,Hybrid,2024-08-25,1.6,2668033,2,5,Yes,No,N/A
+EMP0818,Ravi Joshi,35,Female,M.Tech,Bangalore,HR,Talent Acquisition Specialist,Junior,Remote,2022-12-26,3.3,664779,2,5,No,No,N/A
+EMP0819,Vivaan Dubey,39,Male,B.Tech,Pune,Product,Product Analyst,Mid,On-site,2023-07-14,2.7,1089469,1,2,Yes,No,N/A
+EMP0820,Geeta Pandey,33,Female,MCA,Bangalore,DevOps,SRE,Manager,Remote,2019-09-11,6.6,3343720,5,2,No,Yes,Compensation
+EMP0821,Kunal Saxena,42,Female,B.Com,Hyderabad,HR,Talent Acquisition Specialist,Manager,Remote,2023-04-23,3.0,3413708,3,4,Yes,No,N/A
+EMP0822,Ishaan Mehta,36,Male,MBA,Bangalore,Engineering,Frontend Engineer,Senior,On-site,2022-07-08,3.7,1536002,4,2,No,No,N/A
+EMP0823,Vikram Verma,49,Female,MCA,Mumbai,DevOps,Cloud Engineer,Senior,Hybrid,2023-01-18,3.2,1499113,3,4,No,No,N/A
+EMP0824,Swati Menon,41,Male,B.Sc,Delhi,DevOps,SRE,Senior,Hybrid,2021-10-15,4.5,1304298,3,3,Yes,Yes,Compensation
+EMP0825,Shweta Ghosh,43,Female,B.Tech,Gurgaon,Design,UI/UX Designer,Manager,Remote,2021-05-22,4.9,2795704,1,2,Yes,Yes,Better Opportunity
+EMP0826,Kavya Malhotra,52,Male,MCA,Hyderabad,HR,HR Business Partner,Mid,Hybrid,2024-09-01,1.6,923610,4,5,Yes,No,N/A
+EMP0827,Divya Yadav,49,Male,B.Sc,Chennai,Finance,FP&A Analyst,Mid,Hybrid,2019-10-19,6.5,845989,1,3,Yes,No,N/A
+EMP0828,Pallavi Iyer,43,Male,BCA,Bangalore,Customer Success,Onboarding Specialist,Senior,On-site,2019-02-04,7.2,1941143,3,1,No,Yes,Management Issues
+EMP0829,Ananya Yadav,34,Male,B.Sc,Mumbai,Engineering,Backend Engineer,Junior,On-site,2020-09-24,5.5,502591,3,4,Yes,No,N/A
+EMP0830,Pooja Dubey,45,Male,M.Tech,Delhi,Product,Associate PM,Lead,On-site,2020-08-31,5.6,1803353,4,1,No,No,N/A
+EMP0831,Kavya Tiwari,42,Male,B.Com,Noida,Finance,Financial Controller,Senior,On-site,2022-03-05,4.1,1707755,5,2,No,No,N/A
+EMP0832,Gaurav Pillai,25,Male,M.Tech,Chennai,HR,HR Analyst,Mid,On-site,2020-09-19,5.5,758912,3,4,No,No,N/A
+EMP0833,Vivaan Nair,44,Male,B.Sc,Noida,Product,Product Analyst,Senior,Remote,2019-09-13,6.6,1707236,4,5,No,No,N/A
+EMP0834,Rohan Shah,32,Male,B.Sc,Chennai,DevOps,SRE,Mid,On-site,2022-11-16,3.4,905194,4,4,No,No,N/A
+EMP0835,Karan Pandey,29,Female,B.Sc,Bangalore,Engineering,Frontend Engineer,Mid,On-site,2024-09-06,1.6,1159078,2,5,Yes,No,N/A
+EMP0836,Nikhil Ghosh,44,Male,B.Sc,Noida,Engineering,Full Stack Engineer,Junior,On-site,2022-01-01,4.3,584916,5,1,Yes,No,N/A
+EMP0837,Aditya Garg,51,Male,BCA,Hyderabad,Sales,Account Manager,Lead,On-site,2022-06-16,3.8,2147605,4,2,Yes,No,N/A
+EMP0838,Deepak Chauhan,31,Male,B.Com,Delhi,Finance,FP&A Analyst,Junior,Remote,2021-08-23,4.6,412711,2,2,Yes,Yes,Better Opportunity
+EMP0839,Manish Joshi,44,Female,B.Com,Delhi,Product,Product Manager,Mid,Hybrid,2022-12-03,3.3,710566,1,5,Yes,Yes,Personal Reasons
+EMP0840,Rekha Bhat,31,Male,M.Tech,Hyderabad,Finance,Financial Controller,Senior,Remote,2021-05-03,4.9,1681197,2,1,No,No,N/A
+EMP0841,Kunal Rao,31,Female,B.Com,Hyderabad,Finance,Financial Controller,Mid,Hybrid,2026-02-22,0.1,979552,5,2,No,Yes,Relocation
+EMP0842,Suresh Patel,34,Female,B.Tech,Hyderabad,Sales,Sales Lead,Director,On-site,2020-11-12,5.4,5875211,3,4,Yes,No,N/A
+EMP0843,Neha Das,37,Female,BCA,Mumbai,Data & Analytics,Data Scientist,Lead,Remote,2024-12-01,1.3,2062111,1,2,No,No,N/A
+EMP0844,Lata Pillai,45,Female,MBA,Mumbai,Customer Success,CS Specialist,Mid,On-site,2022-01-19,4.2,1137425,2,1,No,No,N/A
+EMP0845,Tarun Yadav,52,Male,B.Tech,Noida,Customer Success,Onboarding Specialist,Mid,On-site,2025-07-29,0.7,823595,3,4,No,No,N/A
+EMP0846,Aditya Kapoor,22,Male,B.Sc,Gurgaon,Product,Product Analyst,Junior,Remote,2020-01-30,3.0,672597,1,2,Yes,Yes,Better Opportunity
+EMP0847,Nikhil Mishra,31,Female,B.Sc,Delhi,DevOps,SRE,Mid,On-site,2019-08-01,6.7,928316,3,3,No,No,N/A
+EMP0848,Suresh Malhotra,33,Female,B.Com,Pune,Sales,Sales Lead,Manager,Remote,2024-02-02,2.2,3767765,3,4,No,No,N/A
+EMP0849,Shreya Dubey,22,Male,MCA,Hyderabad,DevOps,Cloud Engineer,Lead,On-site,2021-10-29,3.0,2236525,2,2,No,Yes,Better Opportunity
+EMP0850,Sneha Shah,41,Male,B.Com,Noida,Customer Success,CS Specialist,Junior,On-site,2023-07-09,2.7,482026,1,3,Yes,Yes,Better Opportunity
+EMP0851,Ishaan Yadav,34,Male,B.Sc,Delhi,Marketing,Growth Manager,Senior,On-site,2021-02-13,5.1,1788368,5,2,Yes,No,N/A
+EMP0852,Tarun Garg,40,Female,M.Tech,Mumbai,Product,Product Manager,Lead,Remote,2025-06-30,0.8,2603266,4,3,No,No,N/A
+EMP0853,Amit Singh,24,Female,B.Tech,Pune,Engineering,Backend Engineer,Director,On-site,2025-02-27,1.1,4614430,2,2,No,No,N/A
+EMP0854,Nitin Bhat,32,Male,B.Com,Chennai,Customer Success,CS Specialist,Senior,On-site,2021-08-28,4.6,1724681,1,2,No,Yes,Relocation
+EMP0855,Swati Dubey,52,Female,MCA,Hyderabad,Product,Associate PM,Lead,On-site,2020-02-16,6.1,2791418,3,2,No,No,N/A
+EMP0856,Sunita Kapoor,22,Non-Binary,B.Sc,Noida,Finance,Financial Controller,Mid,Hybrid,2022-05-13,3.9,1148461,4,3,No,No,N/A
+EMP0857,Nikhil Malhotra,33,Male,B.Tech,Delhi,Data & Analytics,Data Analyst,Junior,Remote,2024-02-29,2.1,502177,1,5,No,No,N/A
+EMP0858,Vivaan Garg,23,Female,M.Tech,Gurgaon,Marketing,Content Strategist,Mid,Hybrid,2026-01-23,0.2,1069237,3,3,Yes,No,N/A
+EMP0859,Nitin Patel,42,Female,B.Sc,Pune,Data & Analytics,ML Engineer,Senior,Remote,2024-05-19,1.9,1308933,1,3,Yes,No,N/A
+EMP0860,Sneha Chauhan,42,Female,B.Tech,Chennai,Finance,Finance Analyst,Junior,On-site,2018-12-18,7.3,564750,1,5,No,No,N/A
+EMP0861,Gaurav Verma,40,Male,B.Com,Pune,HR,HR Analyst,Junior,On-site,2022-05-16,3.9,670711,1,4,No,No,N/A
+EMP0862,Aarav Nair,23,Male,MBA,Hyderabad,Marketing,Marketing Analyst,Junior,Hybrid,2021-05-09,4.9,504167,5,4,Yes,No,N/A
+EMP0863,Ananya Yadav,24,Male,MBA,Bangalore,Customer Success,Onboarding Specialist,Lead,Remote,2024-08-12,1.6,2775461,4,1,Yes,No,N/A
+EMP0864,Tarun Patel,36,Male,M.Tech,Delhi,Engineering,Backend Engineer,Senior,Remote,2019-03-05,7.1,1959459,2,3,Yes,No,N/A
+EMP0865,Riya Dubey,35,Male,B.Tech,Gurgaon,Marketing,Marketing Analyst,Senior,Hybrid,2020-10-18,5.5,1397389,3,2,Yes,No,N/A
+EMP0866,Pooja Dubey,42,Male,MCA,Delhi,Design,Product Designer,Mid,Remote,2024-02-17,2.1,935758,2,1,No,Yes,Personal Reasons
+EMP0867,Aditya Malhotra,39,Male,MCA,Pune,HR,HR Analyst,Manager,Hybrid,2021-04-12,5.0,2690332,5,2,No,Yes,Compensation
+EMP0868,Akash Reddy,33,Female,B.Tech,Pune,Data & Analytics,ML Engineer,Senior,Hybrid,2024-08-02,1.7,1596267,5,1,No,No,N/A
+EMP0869,Ananya Saxena,50,Male,B.Com,Gurgaon,Customer Success,CS Specialist,Mid,On-site,2019-05-22,6.9,798100,3,3,Yes,No,N/A
+EMP0870,Neha Tiwari,34,Male,B.Tech,Mumbai,Design,UX Researcher,Mid,On-site,2023-07-29,2.7,1137306,2,3,No,No,N/A
+EMP0871,Shreya Kapoor,30,Female,MCA,Mumbai,Product,Product Analyst,Mid,On-site,2024-09-27,1.5,910108,5,1,Yes,No,N/A
+EMP0872,Priya Menon,47,Male,B.Sc,Mumbai,Data & Analytics,Data Scientist,Senior,Remote,2018-11-13,7.4,1294789,3,2,No,No,N/A
+EMP0873,Ravi Reddy,29,Male,B.Sc,Chennai,Marketing,Growth Manager,Junior,Remote,2020-07-17,5.7,628877,1,2,Yes,No,N/A
+EMP0874,Ishaan Rao,44,Male,B.Com,Pune,Customer Success,Onboarding Specialist,Senior,Hybrid,2020-08-24,5.6,1695248,4,4,Yes,No,N/A
+EMP0875,Gaurav Yadav,45,Non-Binary,B.Tech,Mumbai,HR,Talent Acquisition Specialist,Lead,On-site,2023-01-10,3.2,2425935,4,5,Yes,No,N/A
+EMP0876,Harsh Mehta,32,Male,B.Sc,Bangalore,Data & Analytics,Data Scientist,Mid,Remote,2023-11-20,2.4,1131613,1,5,No,No,N/A
+EMP0877,Neha Verma,34,Male,M.Tech,Pune,Marketing,Growth Manager,Junior,Remote,2025-08-06,0.7,494306,4,2,No,Yes,Management Issues
+EMP0878,Manish Agarwal,25,Female,B.Sc,Chennai,Finance,Financial Controller,Mid,Remote,2023-06-24,2.8,1122696,1,3,Yes,No,N/A
+EMP0879,Riya Yadav,36,Female,BCA,Gurgaon,Design,UX Researcher,Mid,On-site,2018-05-24,7.9,954877,4,4,Yes,No,N/A
+EMP0880,Deepak Garg,49,Female,B.Sc,Bangalore,HR,Talent Acquisition Specialist,Senior,Hybrid,2024-04-06,2.0,1582585,1,2,No,No,N/A
+EMP0881,Karan Garg,48,Male,MBA,Bangalore,Design,Product Designer,Junior,On-site,2025-02-26,1.1,638545,4,1,No,No,N/A
+EMP0882,Sanjay Sharma,43,Male,MBA,Bangalore,HR,Talent Acquisition Specialist,Mid,On-site,2021-08-02,4.7,1102041,1,5,No,Yes,Compensation
+EMP0883,Akash Bhat,39,Male,MBA,Chennai,Product,Product Analyst,Senior,Hybrid,2022-09-15,3.6,1460704,2,1,Yes,Yes,Work-Life Balance
+EMP0884,Aditya Patel,50,Female,MCA,Hyderabad,Design,UI/UX Designer,Manager,Hybrid,2024-02-19,2.1,3693422,4,1,Yes,No,N/A
+EMP0885,Riya Yadav,51,Female,B.Tech,Noida,DevOps,Cloud Engineer,Junior,Remote,2025-05-28,0.9,558327,4,4,Yes,Yes,Management Issues
+EMP0886,Neha Joshi,31,Female,M.Tech,Delhi,Sales,Sales Lead,Mid,On-site,2025-03-02,1.1,969504,5,2,Yes,No,N/A
+EMP0887,Vivaan Agarwal,23,Male,B.Sc,Delhi,Data & Analytics,BI Developer,Mid,Hybrid,2025-01-16,1.2,909018,2,3,No,Yes,Work-Life Balance
+EMP0888,Divya Singh,42,Female,MCA,Gurgaon,Customer Success,Onboarding Specialist,Lead,On-site,2021-10-31,4.4,1901866,2,2,Yes,No,N/A
+EMP0889,Rajesh Bansal,39,Male,M.Tech,Gurgaon,Finance,Financial Controller,Senior,Remote,2022-08-17,3.6,1698705,5,1,No,No,N/A
+EMP0890,Sunita Reddy,34,Male,MCA,Chennai,DevOps,Cloud Engineer,Junior,Hybrid,2021-02-17,5.1,611255,1,5,Yes,No,N/A
+EMP0891,Rekha Pillai,36,Male,B.Com,Bangalore,Marketing,Growth Manager,Mid,Hybrid,2018-08-06,7.7,781736,5,5,Yes,No,N/A
+EMP0892,Karan Kumar,29,Male,B.Sc,Hyderabad,DevOps,Cloud Engineer,Mid,On-site,2022-06-22,3.8,1182961,5,2,No,No,N/A
+EMP0893,Lata Shah,46,Male,MBA,Hyderabad,Marketing,Marketing Analyst,Lead,On-site,2022-10-05,3.5,2376790,4,3,Yes,No,N/A
+EMP0894,Arun Gupta,34,Female,B.Sc,Noida,HR,HR Analyst,Mid,Hybrid,2020-10-15,5.5,1150393,4,4,No,No,N/A
+EMP0895,Sanjay Joshi,42,Female,BCA,Mumbai,Engineering,Frontend Engineer,Senior,Remote,2020-03-12,6.1,1916546,1,4,No,No,N/A
+EMP0896,Priya Mishra,24,Female,MCA,Hyderabad,Design,UX Researcher,Mid,Hybrid,2024-12-26,1.3,999150,4,1,No,No,N/A
+EMP0897,Sneha Iyer,49,Male,B.Tech,Bangalore,Engineering,Full Stack Engineer,Senior,Remote,2020-06-05,5.8,1369218,4,3,Yes,Yes,Management Issues
+EMP0898,Karan Agarwal,43,Female,MBA,Pune,Design,Product Designer,Mid,Remote,2025-01-10,1.2,932602,2,2,No,No,N/A
+EMP0899,Arjun Agarwal,22,Male,MBA,Hyderabad,Customer Success,Onboarding Specialist,Manager,On-site,2018-08-17,3.0,3930307,4,5,No,No,N/A
+EMP0900,Kunal Saxena,44,Male,M.Tech,Gurgaon,Design,UX Researcher,Director,Hybrid,2018-07-13,7.7,5839290,4,1,No,No,N/A
+EMP0901,Vikram Malhotra,30,Male,M.Tech,Mumbai,Product,Product Manager,Junior,Hybrid,2024-10-06,1.5,458606,2,3,No,No,N/A
+EMP0902,Varun Menon,24,Male,M.Tech,Delhi,Product,Product Analyst,Senior,On-site,2023-05-27,2.9,1943527,4,2,No,No,N/A
+EMP0903,Rekha Reddy,26,Female,MBA,Pune,Marketing,Content Strategist,Junior,On-site,2019-12-04,6.3,673562,3,1,Yes,No,N/A
+EMP0904,Riya Chauhan,43,Male,B.Com,Mumbai,Marketing,Growth Manager,Senior,On-site,2021-07-27,4.7,1361943,2,2,No,No,N/A
+EMP0905,Priya Reddy,30,Female,BCA,Chennai,Marketing,Marketing Analyst,Senior,On-site,2022-05-07,3.9,1956169,5,5,No,No,N/A
+EMP0906,Deepak Sharma,37,Female,B.Tech,Chennai,HR,Talent Acquisition Specialist,Lead,Remote,2025-07-14,0.7,1977336,5,4,Yes,No,N/A
+EMP0907,Akash Malhotra,30,Male,MCA,Mumbai,Marketing,Marketing Analyst,Junior,On-site,2025-02-01,1.2,462700,2,3,No,No,N/A
+EMP0908,Shweta Garg,34,Female,B.Com,Hyderabad,Sales,Account Manager,Senior,Remote,2025-04-15,1.0,1303641,3,5,Yes,No,N/A
+EMP0909,Pranav Gupta,29,Male,BCA,Delhi,Customer Success,Onboarding Specialist,Mid,On-site,2021-02-18,5.1,1117999,2,2,Yes,No,N/A
+EMP0910,Meera Mishra,45,Female,M.Tech,Gurgaon,Marketing,Marketing Analyst,Senior,Remote,2018-12-23,7.3,1338987,5,3,Yes,No,N/A
+EMP0911,Ishaan Ghosh,42,Female,BCA,Gurgaon,DevOps,DevOps Engineer,Mid,Hybrid,2019-01-31,7.2,802983,4,1,No,Yes,Work-Life Balance
+EMP0912,Riya Saxena,49,Male,MBA,Gurgaon,Design,UI/UX Designer,Senior,On-site,2019-07-07,6.8,1954955,4,2,No,No,N/A
+EMP0913,Siddharth Ghosh,38,Male,MCA,Gurgaon,Data & Analytics,BI Developer,Mid,Remote,2021-06-12,4.8,1198826,3,3,Yes,No,N/A
+EMP0914,Siddharth Nair,50,Male,B.Com,Gurgaon,Data & Analytics,ML Engineer,Junior,Hybrid,2023-12-24,2.3,646680,4,2,Yes,Yes,Relocation
+EMP0915,Pallavi Bhat,25,Male,MBA,Mumbai,DevOps,DevOps Engineer,Junior,On-site,2020-11-11,5.4,511786,3,5,No,No,N/A
+EMP0916,Neha Chauhan,46,Female,M.Tech,Delhi,Data & Analytics,BI Developer,Junior,Remote,2022-09-15,3.6,490060,2,5,Yes,Yes,Personal Reasons
+EMP0917,Tarun Iyer,48,Male,M.Tech,Noida,Marketing,Growth Manager,Manager,Hybrid,2021-09-01,4.6,3277605,2,3,No,No,N/A
+EMP0918,Sneha Joshi,35,Female,MBA,Delhi,Engineering,Full Stack Engineer,Junior,Hybrid,2022-03-25,4.0,473363,4,3,Yes,No,N/A
+EMP0919,Arun Garg,34,Male,B.Tech,Mumbai,Engineering,Frontend Engineer,Mid,Remote,2021-12-01,4.3,992588,5,2,Yes,No,N/A
+EMP0920,Geeta Rao,45,Male,B.Tech,Chennai,HR,HR Analyst,Mid,Hybrid,2024-11-29,1.3,946348,1,4,No,Yes,Personal Reasons
+EMP0921,Kunal Pillai,31,Female,B.Com,Pune,DevOps,SRE,Mid,On-site,2019-07-05,6.8,947380,2,1,No,No,N/A
+EMP0922,Kavya Dubey,24,Male,B.Com,Hyderabad,Marketing,Content Strategist,Junior,On-site,2023-03-07,3.1,528569,3,5,No,No,N/A
+EMP0923,Suresh Joshi,36,Female,MCA,Delhi,HR,Talent Acquisition Specialist,Manager,Hybrid,2020-09-02,5.6,2886169,3,4,Yes,No,N/A
+EMP0924,Rohan Bansal,26,Male,BCA,Chennai,Design,UX Researcher,Manager,Remote,2019-08-08,6.7,3846875,4,4,No,No,N/A
+EMP0925,Akash Singh,52,Female,BCA,Hyderabad,Design,Product Designer,Director,On-site,2023-12-02,2.3,5371831,5,4,No,No,N/A
+EMP0926,Vijay Bansal,38,Male,M.Tech,Pune,Product,Associate PM,Junior,On-site,2019-04-01,7.0,645601,5,2,Yes,No,N/A
+EMP0927,Kavya Sharma,40,Female,M.Tech,Bangalore,HR,HR Business Partner,Junior,Remote,2022-01-27,4.2,638051,5,4,Yes,No,N/A
+EMP0928,Sneha Saxena,30,Female,MBA,Pune,Sales,Account Manager,Mid,Remote,2020-10-05,5.5,1006381,3,5,No,No,N/A
+EMP0929,Arjun Iyer,25,Female,B.Sc,Mumbai,Data & Analytics,Data Scientist,Mid,Remote,2018-07-23,6.0,979666,5,1,Yes,No,N/A
+EMP0930,Karan Bansal,30,Female,B.Tech,Gurgaon,Marketing,Marketing Analyst,Mid,On-site,2020-11-16,5.4,1190892,2,3,Yes,Yes,Relocation
+EMP0931,Ankita Malhotra,36,Female,BCA,Hyderabad,Sales,Account Manager,Junior,Remote,2022-09-28,3.5,504143,2,4,Yes,Yes,Work-Life Balance
+EMP0932,Kabir Agarwal,45,Male,M.Tech,Delhi,Sales,Sales Executive,Manager,On-site,2025-01-17,1.2,3251599,3,4,Yes,No,N/A
+EMP0933,Arjun Pillai,34,Female,MCA,Delhi,Product,Product Analyst,Junior,Remote,2022-12-22,3.3,609876,1,3,No,No,N/A
+EMP0934,Ananya Mishra,34,Male,BCA,Pune,Product,Associate PM,Senior,Remote,2023-07-20,2.7,1216619,3,3,Yes,Yes,Work-Life Balance
+EMP0935,Sanjay Gupta,47,Male,BCA,Pune,Customer Success,CS Manager,Junior,On-site,2020-08-13,5.6,553660,3,5,No,No,N/A
+EMP0936,Nikhil Malhotra,25,Female,BCA,Chennai,Data & Analytics,BI Developer,Lead,Remote,2020-02-01,6.2,1831436,4,2,No,No,N/A
+EMP0937,Kunal Das,37,Male,B.Tech,Bangalore,Engineering,Frontend Engineer,Junior,Hybrid,2018-08-25,7.6,475676,4,1,No,No,N/A
+EMP0938,Lata Agarwal,24,Female,MBA,Gurgaon,Sales,Sales Executive,Mid,Hybrid,2019-07-11,5.0,949398,4,4,No,No,N/A
+EMP0939,Rekha Joshi,39,Male,BCA,Pune,Marketing,Marketing Analyst,Mid,Remote,2022-05-13,3.9,1021708,1,4,No,No,N/A
+EMP0940,Kunal Tiwari,25,Male,MCA,Gurgaon,Sales,Sales Lead,Junior,On-site,2022-10-17,3.5,548006,5,1,Yes,Yes,Work-Life Balance
+EMP0941,Vikram Mishra,50,Female,B.Com,Bangalore,Design,UX Researcher,Mid,On-site,2021-04-03,5.0,1098403,2,3,No,No,N/A
+EMP0942,Aarav Mishra,28,Male,B.Com,Chennai,Finance,Financial Controller,Junior,Remote,2020-04-22,6.0,407508,2,1,Yes,Yes,Compensation
+EMP0943,Harsh Saxena,28,Male,MBA,Chennai,Design,Product Designer,Mid,Remote,2023-05-07,2.9,1025746,3,5,No,Yes,Compensation
+EMP0944,Vijay Chauhan,37,Male,BCA,Pune,Marketing,Growth Manager,Lead,Remote,2024-06-02,1.8,2278482,1,3,No,Yes,Compensation
+EMP0945,Vijay Ghosh,25,Non-Binary,B.Tech,Pune,Sales,Account Manager,Lead,Hybrid,2024-06-08,1.8,2547315,3,2,No,No,N/A
+EMP0946,Pallavi Das,43,Male,BCA,Chennai,DevOps,DevOps Engineer,Junior,On-site,2020-10-01,5.5,408765,2,3,Yes,No,N/A
+EMP0947,Usha Mehta,38,Female,B.Com,Pune,Sales,Sales Lead,Manager,On-site,2020-02-19,6.1,3285324,2,1,Yes,No,N/A
+EMP0948,Sanjay Kapoor,30,Male,MBA,Pune,Design,Product Designer,Lead,On-site,2018-10-24,7.5,2794992,4,3,No,No,N/A
+EMP0949,Rahul Patel,44,Male,B.Sc,Mumbai,Marketing,Marketing Analyst,Junior,Hybrid,2024-06-30,1.8,563370,2,5,Yes,Yes,Relocation
+EMP0950,Nisha Patel,28,Female,B.Tech,Pune,Data & Analytics,ML Engineer,Mid,Remote,2021-01-19,5.2,1137428,3,1,Yes,No,N/A
+EMP0951,Ravi Chauhan,46,Female,B.Sc,Gurgaon,Customer Success,CS Manager,Senior,Hybrid,2021-12-08,4.3,1211292,1,5,No,No,N/A
+EMP0952,Riya Kumar,36,Female,M.Tech,Pune,Product,Associate PM,Senior,On-site,2019-12-27,6.3,1273822,3,3,Yes,No,N/A
+EMP0953,Akash Kumar,25,Female,MBA,Delhi,Customer Success,CS Specialist,Junior,Hybrid,2019-04-04,7.0,590080,2,4,No,No,N/A
+EMP0954,Swati Mehta,48,Female,B.Sc,Noida,DevOps,SRE,Mid,On-site,2021-01-30,5.2,886993,1,1,Yes,No,N/A
+EMP0955,Gaurav Rao,48,Male,B.Tech,Hyderabad,Marketing,Marketing Analyst,Director,On-site,2023-09-26,2.5,6351623,5,5,No,No,N/A
+EMP0956,Aditya Reddy,29,Female,M.Tech,Gurgaon,Product,Product Manager,Manager,On-site,2022-04-23,4.0,3716604,5,4,No,No,N/A
+EMP0957,Ishaan Nair,48,Female,B.Com,Bangalore,DevOps,DevOps Engineer,Manager,On-site,2025-04-22,1.0,3405544,1,2,Yes,Yes,Compensation
+EMP0958,Amit Menon,43,Female,MCA,Delhi,Customer Success,CS Specialist,Mid,Remote,2022-02-14,4.1,884747,2,3,No,No,N/A
+EMP0959,Kabir Iyer,39,Male,BCA,Mumbai,Sales,Sales Lead,Lead,Hybrid,2025-07-14,0.7,2137516,4,3,Yes,No,N/A
+EMP0960,Mohit Rao,24,Male,B.Com,Gurgaon,Marketing,Marketing Analyst,Manager,Hybrid,2025-06-08,0.8,3351580,3,5,No,No,N/A
+EMP0961,Ankita Dubey,46,Female,MBA,Pune,HR,Talent Acquisition Specialist,Manager,Hybrid,2020-01-19,6.2,2853460,3,1,Yes,Yes,Compensation
+EMP0962,Manish Patel,24,Female,B.Tech,Delhi,Design,UX Researcher,Junior,On-site,2019-04-12,5.0,612146,3,2,No,No,N/A
+EMP0963,Nisha Sharma,29,Male,B.Com,Mumbai,Design,UI/UX Designer,Mid,Remote,2023-03-24,3.0,1133132,1,2,Yes,No,N/A
+EMP0964,Neha Bansal,28,Male,BCA,Mumbai,Sales,Account Manager,Senior,Hybrid,2019-11-23,6.4,1213021,3,2,Yes,No,N/A
+EMP0965,Nikhil Kapoor,50,Female,B.Sc,Chennai,Data & Analytics,ML Engineer,Senior,On-site,2022-08-09,3.7,1983068,3,3,No,No,N/A
+EMP0966,Nitin Bhat,26,Male,B.Tech,Mumbai,HR,HR Business Partner,Manager,On-site,2021-11-14,4.4,3973112,2,5,Yes,Yes,Personal Reasons
+EMP0967,Arun Bhat,39,Female,B.Tech,Pune,HR,HR Analyst,Senior,Remote,2020-10-10,5.5,1687888,3,5,Yes,No,N/A
+EMP0968,Nisha Mishra,23,Male,MCA,Bangalore,DevOps,SRE,Senior,On-site,2022-02-28,4.1,1699779,2,1,No,Yes,Management Issues
+EMP0969,Siddharth Nair,46,Male,BCA,Noida,Design,Product Designer,Mid,Remote,2019-10-05,6.5,907747,2,4,No,No,N/A
+EMP0970,Arjun Pandey,49,Male,M.Tech,Pune,DevOps,Cloud Engineer,Senior,On-site,2018-05-04,7.9,1839206,1,3,Yes,No,N/A
+EMP0971,Manish Mishra,46,Female,MCA,Noida,Sales,Sales Executive,Director,Hybrid,2020-04-10,6.0,4760167,1,4,Yes,Yes,Better Opportunity
+EMP0972,Riya Bhat,49,Male,MBA,Noida,Finance,Financial Controller,Mid,Remote,2022-02-11,4.1,795939,1,3,No,Yes,Relocation
+EMP0973,Rohan Ghosh,42,Male,MBA,Hyderabad,Sales,Account Manager,Director,Remote,2019-03-07,7.1,5424889,4,1,No,Yes,Personal Reasons
+EMP0974,Ananya Joshi,34,Female,M.Tech,Pune,Engineering,Software Engineer,Junior,On-site,2021-09-12,4.6,414498,5,5,No,No,N/A
+EMP0975,Ravi Gupta,43,Male,B.Com,Gurgaon,Sales,Account Manager,Junior,Remote,2019-12-31,6.3,596171,5,2,No,No,N/A
+EMP0976,Geeta Das,50,Male,B.Tech,Gurgaon,Design,UI/UX Designer,Manager,Remote,2019-08-12,6.7,3153609,3,1,No,No,N/A
+EMP0977,Gaurav Ghosh,51,Male,B.Sc,Chennai,Design,UI/UX Designer,Director,Remote,2022-01-17,4.2,5907011,5,4,No,No,N/A
+EMP0978,Kabir Tiwari,34,Female,BCA,Noida,Sales,Account Manager,Junior,On-site,2018-09-24,7.5,587863,1,4,Yes,No,N/A
+EMP0979,Swati Sharma,36,Male,MBA,Gurgaon,Sales,Account Manager,Mid,On-site,2020-06-26,5.8,853594,4,4,No,No,N/A
+EMP0980,Shreya Kapoor,47,Female,BCA,Pune,Finance,FP&A Analyst,Mid,On-site,2021-06-26,4.8,1104143,1,5,Yes,Yes,Better Opportunity
+EMP0981,Rohan Bansal,22,Female,B.Com,Noida,HR,HR Analyst,Junior,On-site,2018-10-17,3.0,558830,4,2,No,No,N/A
+EMP0982,Divya Dubey,38,Male,MCA,Mumbai,DevOps,Cloud Engineer,Lead,Hybrid,2022-06-03,3.8,2514220,1,2,Yes,Yes,Work-Life Balance
+EMP0983,Gaurav Bansal,22,Female,MBA,Pune,Sales,Sales Lead,Senior,Hybrid,2018-10-09,3.0,1600019,2,1,No,Yes,Work-Life Balance
+EMP0984,Riya Kapoor,34,Female,MCA,Delhi,Sales,Account Manager,Manager,Remote,2018-10-07,7.5,2827006,2,5,Yes,No,N/A
+EMP0985,Aarav Chauhan,35,Female,B.Tech,Gurgaon,Marketing,Growth Manager,Senior,Remote,2022-11-26,3.4,1595451,3,2,No,No,N/A
+EMP0986,Riya Tiwari,25,Female,MCA,Noida,Sales,Sales Executive,Senior,Hybrid,2020-01-17,6.2,1712267,1,2,No,Yes,Management Issues
+EMP0987,Sunita Garg,40,Male,B.Sc,Bangalore,DevOps,SRE,Mid,Hybrid,2021-03-13,5.1,756881,1,4,Yes,No,N/A
+EMP0988,Arun Yadav,23,Male,BCA,Bangalore,Customer Success,CS Manager,Junior,On-site,2022-08-13,3.6,496719,1,1,Yes,Yes,Compensation
+EMP0989,Riya Malhotra,45,Male,M.Tech,Mumbai,DevOps,DevOps Engineer,Senior,On-site,2021-10-30,4.4,1245883,5,1,Yes,No,N/A
+EMP0990,Suresh Tiwari,52,Female,B.Tech,Gurgaon,Engineering,Full Stack Engineer,Mid,Remote,2021-07-15,4.7,965077,1,2,Yes,No,N/A
+EMP0991,Sanjay Das,39,Male,BCA,Pune,Sales,Sales Lead,Mid,On-site,2020-01-26,6.2,775163,5,3,Yes,Yes,Better Opportunity
+EMP0992,Deepak Saxena,50,Female,B.Com,Mumbai,HR,Talent Acquisition Specialist,Junior,On-site,2019-06-06,6.8,522506,1,4,Yes,No,N/A
+EMP0993,Tarun Mehta,48,Female,BCA,Delhi,Engineering,Software Engineer,Junior,Hybrid,2023-08-10,2.7,699626,4,3,No,No,N/A
+EMP0994,Kunal Gupta,26,Female,M.Tech,Delhi,Customer Success,CS Specialist,Manager,Remote,2023-05-11,2.9,3625026,3,2,Yes,No,N/A
+EMP0995,Shweta Garg,47,Male,M.Tech,Pune,HR,HR Analyst,Junior,On-site,2021-08-17,4.6,475488,1,4,No,No,N/A
+EMP0996,Suresh Iyer,35,Female,B.Sc,Mumbai,HR,HR Business Partner,Manager,Remote,2022-12-13,3.3,3465909,4,4,No,No,N/A
+EMP0997,Shreya Joshi,28,Male,M.Tech,Hyderabad,Sales,Sales Lead,Junior,On-site,2025-08-28,0.6,590534,4,5,No,No,N/A
+EMP0998,Gaurav Rao,52,Female,M.Tech,Pune,Customer Success,CS Specialist,Manager,Hybrid,2025-04-04,1.0,3364273,1,2,Yes,Yes,Work-Life Balance
+EMP0999,Sneha Patel,43,Male,M.Tech,Mumbai,Engineering,Backend Engineer,Mid,On-site,2020-03-12,6.1,843298,5,2,No,No,N/A
+EMP1000,Rohan Iyer,51,Female,MBA,Chennai,Data & Analytics,ML Engineer,Mid,Remote,2025-02-17,1.1,978180,1,1,Yes,Yes,Better Opportunity
